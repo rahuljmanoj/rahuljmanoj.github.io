@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://rahuljmanoj.github.io/al-folio/sitemap.xml
