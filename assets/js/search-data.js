@@ -448,8 +448,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-won-the-popular-prize-for-the-international-modelling-challenge-digital-twin-builder-for-heath-incubator-by-isi-health-ku-leuven-belgium",
+          title: 'Won the Popular Prize for the International Modelling Challenge:Digital Twin Builder for Heath...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
