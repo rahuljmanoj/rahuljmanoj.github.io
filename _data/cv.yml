@@ -6,34 +6,34 @@
     - name: Date of Birth
       value: 21st May 1993
     - name: Languages
-      value: English, Malayalam, Hindi, Tamil, Norwegian
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: M.S & PhD in Electrical Engineering (Specialized in Biomdedical Instrumentation)
-      institution: Indian Institute of Technology (IIT) Madras, Chennai, Tamil Nadu, India
-      year: 2024
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        - Department of Electrical Engineering 
-        - Thesis: De-mystifying the arterial pulse wave – a system and method to quantify pulse wave reflections and its novel applications.
+        - Description 1.
+        - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: B.Tech in Electrical and Electronics Engineering
-      institution: National Institute of Technology (NIT) Calicut, Kozhikode, Kerala, India
-      year: 2016
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
-        - Department of Electrical Engineering 
+        - Description 1.
         - Description 2.
 
-- title: Reserach Experiance
+- title: Experience
   type: time_table
   contents:
-    - title: Post Doctoral Research Fellow
-      institution: Norwegian University of Science and Technology (NTNU), Norway
-      year: 2024 - Present
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
         - Description 1.
         - Description 2.
@@ -41,16 +41,16 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Researcher
-      institution: Indian Institute of Technology (IIT) Madras, Chennai, Tamil Nadu, India
-      year: 2017 - 2024
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
       description:
         - Description 1.
         - Description 2.
 
-    - title: Research Intern
-      institution: Healthcare Technology Innovation Centre (HTIC), IIT Madras Research Park, Chennai, Tamil Nadu, India
-      year: 2019 - 2022 
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
 
     - title: Professor of Theoretical Physics
       institution: Karl-Ferdinand University, Prague, Czechoslovakia
