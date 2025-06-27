@@ -440,18 +440,26 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-won-the-runner-39-s-up-prize-for-my-tedx-style-reaserch-talk-at-the-electrical-engineering-research-scholars-symposium-2024-held-at-iit-madras-india",
+          title: 'Won the Runner&amp;#39;s Up Prize for my TEDx-style Reaserch Talk at the Electrical...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_5/";
+            },},{id: "news-defended-my-phd-thesis-and-graduated-from-indian-institute-of-technology-iit-madras-for-dual-degree-m-s-and-ph-d",
+          title: 'Defended my PhD Thesis and graduated from Indian Institute of Technology (IIT) Madras...',
+          description: "",
+          section: "News",},{id: "news-joined-as-a-postdoctoral-reserach-fellow-with-the-division-of-biomechanics-department-of-structral-engineering-at-ntnu-norway",
+          title: 'Joined as a Postdoctoral Reserach Fellow with the Division of Biomechanics, Department of...',
+          description: "",
+          section: "News",},{id: "news-selected-for-a-2-year-term-2025-2026-at-the-young-scientists-committe-of-the-vph-institute-check-out-the-links-for-more-details",
+          title: 'Selected for a 2-year term (2025-2026) at the Young Scientists Committe of the...',
+          description: "",
+          section: "News",},{id: "news-won-the-popular-prize-for-the-international-modelling-challenge-digital-twin-builder-for-heath-incubator-by-isi-health-ku-leuven-belgium",
+          title: 'Won the Popular Prize for the International Modelling Challenge:Digital Twin Builder for Heath...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-won-the-popular-prize-for-the-international-modelling-challenge-digital-twin-builder-for-heath-incubator-by-isi-health-ku-leuven-belgium",
-          title: 'Won the Popular Prize for the International Modelling Challenge:Digital Twin Builder for Heath...',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
