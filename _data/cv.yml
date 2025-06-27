@@ -2,38 +2,38 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Rahul Manoj
     - name: Date of Birth
-      value: 14th March 1879
+      value: 21st May 1993
     - name: Languages
-      value: English, German
+      value: English, Malayalam, Hindi, Tamil, Norwegian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.S & PhD in Electrical Engineering (Specialized in Biomdedical Instrumentation)
+      institution: Indian Institute of Technology (IIT) Madras, Chennai, Tamil Nadu, India
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Department of Electrical Engineering 
+        - Thesis: De-mystifying the arterial pulse wave – a system and method to quantify pulse wave reflections and its novel applications.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: B.Tech in Electrical and Electronics Engineering
+      institution: National Institute of Technology (NIT) Calicut, Kozhikode, Kerala, India
+      year: 2016
       description:
-        - Description 1.
+        - Department of Electrical Engineering 
         - Description 2.
 
-- title: Experience
+- title: Reserach Experiance
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Post Doctoral Research Fellow
+      institution: Norwegian University of Science and Technology (NTNU), Norway
+      year: 2024 - Present
       description:
         - Description 1.
         - Description 2.
@@ -41,16 +41,16 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Researcher
+      institution: Indian Institute of Technology (IIT) Madras, Chennai, Tamil Nadu, India
+      year: 2017 - 2024
       description:
         - Description 1.
         - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Research Intern
+      institution: Healthcare Technology Innovation Centre (HTIC), IIT Madras Research Park, Chennai, Tamil Nadu, India
+      year: 2019 - 2022 
 
     - title: Professor of Theoretical Physics
       institution: Karl-Ferdinand University, Prague, Czechoslovakia
