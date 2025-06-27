@@ -27,7 +27,7 @@ latest_posts:
 
 Thank you for visiting my profile 🙂
 
-I am an electrical engineer, and an interdisciplinary research scientist specialized in biomedical instrumentation with over the past several yaers extensively working on preventative care technologies for improving and tracking health. I have a strong interest in building reliable, user-focused systems, especially in domains that intersect **health**, **technology**, and **complex sensing environments**. 
+I am an electrical engineer, and an interdisciplinary research scientist specialized in biomedical instrumentation working on preventative care technologies for improving and tracking health. I have a strong interest in building reliable, user-focused systems, especially in domains that intersect **health**, **technology**, and **complex sensing environments**. 
 
 Currently, I am working as a [Postdoctoral Researcher](https://www.ntnu.edu/employees/rahul.manoj) with the [Division of Biomechanics](https://www.ntnu.edu/biomechanics), Department of Structral Engineering at NTNU, Norway, forging interdisciplinary R&D through collaborations with academia, hospitals, and industry. 
 
@@ -35,6 +35,6 @@ My experience in biomedical R&D spans building electro-mechanical systems, elect
 
 My research intrests include: 
 
-**Cardiovascular Research & Engineering**  **Sensors & Instrumentation**  **Signal Processing**  **Algorithm Development**  **Prototyping** 
+**Cardiovascular Research & Engineering**, **Sensors & Instrumentation**,  **Signal Processing**,  **Algorithm Development**,  **Prototyping** 
 
-[Click here to dowload my latest CV](https://rahuljmanoj.github.io/assets/cv/Rahul_Manoj_CV.pdf)
+
