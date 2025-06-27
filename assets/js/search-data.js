@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
+        },{id: "nav-patents",
+          title: "patents",
+          description: "Patented Technologies",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/patents/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
