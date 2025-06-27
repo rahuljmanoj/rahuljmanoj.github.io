@@ -1,33 +1,27 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Won the Popular Prize for the International Modelling Challenge:Digital Twin Builder for Heath Incubator by iSi Health KU Leuven, Belgium
+date: 2025-06-25 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Our team had participated at the [International Modelling Challenge](https://gbiomed.kuleuven.be/english/research/50000737/research/HMB/isihealth/news-and-events/challenge-digital-twin-builder-for-health-incubator) :Digital Twin Builder for Heath Incubator by iSi Health KU Leuven, Belgium for the cardiology challenge related to diagnosis of heartfaliure. 
 
 ---
+The International modeling challenge: [Measuring left ventricular filling pressures with  ultrasound shear wave elastography and digital twin technology](https://gbiomed.kuleuven.be/english/research/50000737/research/HMB/isihealth/news-and-events/challenge-digital-twin-builder-for-health-incubator/international-modeling-challenge-measuring-left-ventricular-filling-pressures-with-ultrasound-shear-wave-elastography-and-digital-twin-technology) started off in late February, 2025 and lasted till late June, 2025. 
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
-
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+Heart failure with preserved ejection fraction (HFpEF) often goes undetected until invasive procedures are required. Our project, ECHO-PULSE-TWIN, offers a non-invasive “digital twin” of a patient’s cardiovascular system by combining standard echocardiography, blood-pressure measurements, and shear-wave elastography within a simplified physiological model. In under a second of processing time, the system tailors itself to each individual—using lightweight calibration algorithms—to provide personalized pressure–volume relationships and hemodynamic insights at the bedside.
+Designed to work with existing ultrasound machines, ECHO-PULSE-TWIN requires no additional hardware and fits seamlessly into clinical workflows. By translating routine echo scans into real-time functional assessments, it empowers clinicians to make earlier, more informed decisions without resorting to catheterization. Our hybrid physics-and-AI framework ensures transparency and interpretability, while a modular software architecture supports future extensions—such as wearable ultrasound patches for continuous vascular monitoring.
+With a clear path to integration through partnerships with ultrasound OEMs and a flexible licensing plus cloud-delivery model, ECHO-PULSE-TWIN aims to democratize advanced hemodynamic assessment, reduce patient risk, and accelerate adoption of digital-twin technology in cardiovascular care.
 
 ---
+We had to present the solution as a pitch deck to a panel of jury. [Click here to check out the pitch deck on YouTube](https://www.youtube.com/watch?v=NV-kwZMy_3A).
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+**Team Members**: 
+1. Rahul Manoj, Post Doc, NTNU, Norway
+2. Omid Ghorbani, PhD Candidate, NTNU, Norway
+3. Sébastien Salles, Researcher, Sorbonne University, France 
+4. Muruganantham Jaisankar, PhD Candidate, University of Deusto, Spain & KUT, Lithuania 
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
