@@ -35,6 +35,10 @@ My experience in biomedical R&D spans building electro-mechanical systems, elect
 
 My research intrests include: 
 
-**Cardiovascular Research & Engineering**, **Sensors & Instrumentation**,  **Signal Processing**,  **Algorithm Development**,  **Prototyping** 
+- **Cardiovascular Research & Engineering** 
+- **Sensors & Instrumentation**  
+- **Signal Processing** 
+- **Algorithm Development**
+- **Prototyping** 
 
 
