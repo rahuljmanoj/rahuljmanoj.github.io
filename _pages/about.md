@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Scientist | Medical Technology | Translational Reserach
+subtitle: Research Scientist | Medical Technology
 
 profile:
   align: right
