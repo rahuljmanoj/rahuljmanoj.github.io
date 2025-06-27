@@ -31,6 +31,6 @@ I am an electrical engineer, and an interdisciplinary research scientist special
 
 My experience in biomedical R&D spans building electro-mechanical systems, electronic system design, embedded systems, multi-modality sensing, signal processing, and physics-based modelling. While I’ve specialised in cardiovascular and medical technologies during my PhD and postdoc research, I enjoy applying core engineering principles to solve real-world challenges across multi-disciplinary domains—be it a device, a model, or a workflow. My research centers on technology development for preventive cardiovascular care and wearable devices, developed through close academic-clinician-industry collaboration, advancing early diagnosis and patient-specific management thorugh digital twin solutions.
 
-Research Interests:| **Cardiovascular Engineeing** | **Sensors & Instrumentation** | **Signal Processing** | **Algorithm Development** | **Prototyping** 
+| **Cardiovascular Engineeing** | **Sensors & Instrumentation** | **Signal Processing** | **Algorithm Development** | **Prototyping** 
 
 [Click here to dowload my latest CV](https://rahuljmanoj.github.io/assets/cv/Rahul_Manoj_CV.pdf)
