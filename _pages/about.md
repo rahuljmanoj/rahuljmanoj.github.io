@@ -33,42 +33,28 @@ Currently, I am working as a [Postdoctoral Researcher](https://www.ntnu.edu/empl
 
 My experience in biomedical R&D spans building electro-mechanical systems, electronic system design, embedded systems, multi-modality sensing, signal processing, and physics-based modelling. While I’ve specialised in cardiovascular and medical technologies during my PhD and postdoc research, I enjoy applying core engineering principles to solve real-world challenges across multi-disciplinary domains—be it a device, a model, or a workflow. 
 
-My research intrests include: 
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 40px;">
 
-- **Physics & Data Driven Modelling** 
-- **Sensors & Instrumentation**  
-- **Signal Processing** 
-- **Algorithm Development**
-- **Prototyping** 
+  <div style="flex: 1; min-width: 300px;">
+    <p><strong>My research interests include:</strong></p>
+    <ul>
+      <li><strong>Physics & Data Driven Modelling</strong></li>
+      <li><strong>Sensors & Instrumentation</strong></li>
+      <li><strong>Signal Processing</strong></li>
+      <li><strong>Algorithm Development</strong></li>
+      <li><strong>Prototyping</strong></li>
+    </ul>
+  </div>
 
-<table>
-<tr>
-<td valign="top" width="50%">
+  <div style="flex: 1; min-width: 300px;">
+    <p><strong>Education:</strong></p>
+    <ul>
+      <li><strong>M.S. & PhD, Electrical Engineering</strong>, IIT Madras (2024)<br>
+      <em>Specialized in Biomedical Instrumentation</em></li>
+      <li><strong>B.Tech, Electrical & Electronics Engineering</strong>, NIT Calicut (2016)</li>
+    </ul>
+  </div>
 
-**My research interests include:**
-
-- **Physics & Data Driven Modelling**
-- **Sensors & Instrumentation**
-- **Signal Processing**
-- **Algorithm Development**
-- **Prototyping**
-
-</td>
-<td valign="top" width="50%">
-
-**Education:**
-
-- **M.S. & PhD, Electrical Engineering**,
-   Indian Institute of Technology Madras (IIT M), India (2024)  
-  *Specialized in Biomedical Instrumentation*
-
-- **B.Tech, Electrical & Electronics Engineering**, 
-   National Institute of Technology Calicut (NIT C), India (2016)  
-
-</td>
-</tr>
-</table>
-
-
+</div>
 
 [Click here to download my recent CV](https://rahuljmanoj.github.io/assets/cv/Rahul_Manoj_CV.pdf)
