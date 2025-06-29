@@ -1,8 +1,8 @@
 ---
 layout: page
-title: portfolio
-permalink: /portfolio/
-description: Description reated to all my projects.
+title: projects
+permalink: /projects/
+description: A sneek-peak to all my projects.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
