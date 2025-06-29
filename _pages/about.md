@@ -51,12 +51,12 @@ My experience in biomedical R&D spans building **electro-mechanical systems**, *
   <ul>
     <li>
       <strong>M.S. & PhD, Electrical Engineering</strong><br>
-      Indian Institute of Technology Madras (IIT M), Chennai, India (2024)<br>
+      Indian Institute of Technology Madras ([IIT M](https://www.iitm.ac.in/)), India (2024)<br>
       <em>Specialized in Biomedical Instrumentation</em>
     </li>
     <li>
       <strong>B.Tech, Electrical & Electronics Engineering</strong><br>
-      National Institute of Technology Calicut (NIT C),Kozhikode, India (2016)
+      National Institute of Technology Calicut ([NIT C](https://nitc.ac.in/)), India (2016)
     </li>
   </ul>
 </div>
