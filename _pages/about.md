@@ -27,7 +27,8 @@ latest_posts:
 
 Thank you for visiting my profile 🙂
 
-I am an electrical engineer and interdisciplinary research scientist specialized in biomedical instrumentation and technology development for healthcare applications. I have a strong interest in building reliable, user-focused systems, especially in domains that intersect **health**, **technology**, and **complex sensing environments**. 
+I am an electrical engineer and interdisciplinary research scientist specialized in biomedical instrumentation and technology development for healthcare applications.
+I have a strong interest in building reliable, user-focused systems, especially in domains that intersect **health**, **technology**, and **complex sensing environments**. 
 
 Currently, I am a [Postdoctoral Research Fellow](https://www.ntnu.edu/employees/rahul.manoj) with the [Division of Biomechanics](https://www.ntnu.edu/biomechanics), [Department of Structral Engineering](https://www.ntnu.no/kt) at [NTNU](https://www.ntnu.no), Norway, forging interdisciplinary R&D through collaborations with academia, hospitals, and industry. My current work centers on developing **physics-based and data-driven modeling**, **parameter estimation**, **uncertainty quantification**, and **digital twin** deployement to advance the diagnosis and monitoring of cardiovascular health.
 
