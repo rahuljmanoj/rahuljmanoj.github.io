@@ -41,4 +41,34 @@ My research intrests include:
 - **Algorithm Development**
 - **Prototyping** 
 
+<table>
+<tr>
+<td valign="top" width="50%">
 
+**My research interests include:**
+
+- **Physics & Data Driven Modelling**
+- **Sensors & Instrumentation**
+- **Signal Processing**
+- **Algorithm Development**
+- **Prototyping**
+
+</td>
+<td valign="top" width="50%">
+
+**Education:**
+
+- **M.S. & PhD, Electrical Engineering**,
+   Indian Institute of Technology Madras (IIT M), India (2024)  
+  *Specialized in Biomedical Instrumentation*
+
+- **B.Tech, Electrical & Electronics Engineering**, 
+   National Institute of Technology Calicut (NIT C), India (2016)  
+
+</td>
+</tr>
+</table>
+
+
+
+[Click here to download my recent CV](https://rahuljmanoj.github.io/assets/cv/Rahul_Manoj_CV.pdf)
