@@ -101,48 +101,48 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-instrumentation-for-periodic-weight-measurement-for-bedridden-patients-on-hospital-beds",
-          title: 'Instrumentation for Periodic Weight Measurement for Bedridden Patients on Hospital Beds',
+            },},{id: "projects-weight-measurement-for-bedridden-patients-on-hospital-beds",
+          title: 'Weight Measurement for Bedridden Patients on Hospital Beds',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+            },},{id: "projects-flow-independent-arterial-pulse-wave-separation-analysis",
+          title: 'Flow-Independent Arterial Pulse Wave Separation Analysis',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
+            },},{id: "projects-multi-modal-arterial-probe-for-stiffness-measurement",
+          title: 'Multi-Modal Arterial Probe for Stiffness Measurement',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
+            },},{id: "projects-pulse-wave-velocity-from-forward-travelling-pulse-wave",
+          title: 'Pulse Wave Velocity from Forward-Travelling Pulse Wave',
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
+            },},{id: "projects-calibartion-free-models-for-estimating-arterial-stiffness-amp-bp",
+          title: 'Calibartion-Free Models for Estimating Arterial Stiffness &amp;amp; BP',
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
+            },},{id: "projects-echo-pulse-twin-digital-twin-solution-for-heart-faliure-diagnosis",
+          title: 'ECHO-PULSE-TWIN Digital Twin Solution for Heart Faliure Diagnosis',
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
+            },},{id: "projects-ambulatory-solutions-for-arterial-stiffness-measurement",
+          title: 'Ambulatory Solutions for Arterial Stiffness Measurement',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
+            },},{id: "projects-automated-cover-slipper-for-large-histopathology-whole-brain-slides",
+          title: 'Automated Cover-slipper for Large Histopathology Whole Brain Slides',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
+            },},{id: "projects-tele-operated-tractetory-tracking-robots",
+          title: 'Tele-operated Tractetory Tracking Robots',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
