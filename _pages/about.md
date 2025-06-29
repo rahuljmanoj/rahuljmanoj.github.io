@@ -31,12 +31,12 @@ I am an electrical engineer, and an interdisciplinary research scientist special
 
 Currently, I am working as a [Postdoctoral Researcher](https://www.ntnu.edu/employees/rahul.manoj) with the [Division of Biomechanics](https://www.ntnu.edu/biomechanics), Department of Structral Engineering at NTNU, Norway, forging interdisciplinary R&D through collaborations with academia, hospitals, and industry. 
 
-My experience in biomedical R&D spans building electro-mechanical systems, electronic system design, embedded systems, multi-modality sensing, signal processing, and physics-based modelling. While I’ve specialised in cardiovascular and medical technologies during my PhD and postdoc research, I enjoy applying core engineering principles to solve real-world challenges across multi-disciplinary domains—be it a device, a model, or a workflow. 
+My experience in biomedical R&D spans building electro-mechanical systems, electronic system design, embedded systems, multi-modality sensing, signal processing, and physics-based modelling. While I’ve specialised in cardiovascular engineering during my PhD and postdoc research, I enjoy applying core engineering principles to solve real-world challenges across multi-disciplinary domains—be it a device, a robot,  a model, or a workflow. 
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 40px;">
 
   <div style="flex: 1; min-width: 300px;">
-    <p><strong>My research interests include:</strong></p>
+    <p><strong>Research interests:</strong></p>
     <ul>
       <li><strong>Physics & Data Driven Modelling</strong></li>
       <li><strong>Sensors & Instrumentation</strong></li>
