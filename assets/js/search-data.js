@@ -44,13 +44,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/patents/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "You can download my latest 2-page CV here as a pdf.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "post-how-not-to-die-young-lessons-from-cardiovascular-engineering",
         
           title: "How not to die Young? Lessons from Cardiovascular Engineering",
