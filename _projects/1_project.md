@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Instrumentation for Periodic Weight Measurement for Bedridden Patients on Hospital Beds
+title: Weight Measurement for Bedridden Patients on Hospital Beds
 description: with background image
 img: assets/img/12.jpg
 importance: 1

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
+title: ECHO-PULSE-TWIN Digital Twin Solution for Heart Faliure Diagnosis
 description: a project with no image
 img:
-importance: 4
-category: fun
+importance: 6
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
