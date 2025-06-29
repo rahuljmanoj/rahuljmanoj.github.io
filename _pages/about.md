@@ -46,15 +46,21 @@ My experience in biomedical R&D spans building electro-mechanical systems, elect
     </ul>
   </div>
 
-  <div style="flex: 1; min-width: 300px;">
-    <p><strong>Education:</strong></p>
-    <ul>
-      <li><strong>M.S. & PhD, Electrical Engineering</strong>, IIT Madras (2024)<br>
-      <em>Specialized in Biomedical Instrumentation</em></li>
-      <li><strong>B.Tech, Electrical & Electronics Engineering</strong>, NIT Calicut (2016)</li>
-    </ul>
-  </div>
-
+ <div style="flex: 1; min-width: 300px;">
+  <p><strong>Education:</strong></p>
+  <ul>
+    <li>
+      <strong>M.S. & PhD, Electrical Engineering</strong><br>
+      Indian Institute of Technology Madras (IIT M) (2024)<br>
+      <em>Specialized in Biomedical Instrumentation</em>
+    </li>
+    <li>
+      <strong>B.Tech, Electrical & Electronics Engineering</strong><br>
+      National Institute of Technology Calicut (NIT C) (2016)
+    </li>
+  </ul>
 </div>
+</div>
+
 
 [Click here to download my recent CV](https://rahuljmanoj.github.io/assets/cv/Rahul_Manoj_CV.pdf)
