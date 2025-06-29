@@ -27,16 +27,16 @@ latest_posts:
 
 Thank you for visiting my profile 🙂
 
-I am an electrical engineer, and an interdisciplinary research scientist specialized in biomedical instrumentation working on preventative care technologies for improving and tracking health. I have a strong interest in building reliable, user-focused systems, especially in domains that intersect **health**, **technology**, and **complex sensing environments**. 
+I am an electrical engineer and interdisciplinary research scientist specialized in biomedical instrumentation and technology development for healthcare applications. I have a strong interest in building reliable, user-focused systems, especially in domains that intersect **health**, **technology**, and **complex sensing environments**. 
 
-Currently, I am working as a [Postdoctoral Researcher](https://www.ntnu.edu/employees/rahul.manoj) with the [Division of Biomechanics](https://www.ntnu.edu/biomechanics), Department of Structral Engineering at NTNU, Norway, forging interdisciplinary R&D through collaborations with academia, hospitals, and industry. 
+Currently, I am a [Postdoctoral Research Fellow](https://www.ntnu.edu/employees/rahul.manoj) with the [Division of Biomechanics](https://www.ntnu.edu/biomechanics), [Department of Structral Engineering](https://www.ntnu.no/kt) at [NTNU](https://www.ntnu.no), Norway, forging interdisciplinary R&D through collaborations with academia, hospitals, and industry. My current work centers on developing **physics-based and data-driven modeling**, **parameter estimation**, **uncertainty quantification**, and **digital twin** deployement to advance the diagnosis and monitoring of cardiovascular health.
 
-My experience in biomedical R&D spans building electro-mechanical systems, electronic system design, embedded systems, multi-modality sensing, signal processing, and physics-based modelling. While I’ve specialised in cardiovascular engineering during my PhD and postdoc research, I enjoy applying core engineering principles to solve real-world challenges across multi-disciplinary domains—be it a device, a robot,  a model, or a workflow. 
+My experience in biomedical R&D spans building **electro-mechanical systems**, **electronic system design**, **embedded systems**, **multi-modality sensing**, **signal processing**. While my doctoral and postdoctoral research has focused on developing targeted systems and methods to improve early diagnosis of cardiovascular dysfunction, I enjoy applying core engineering principles to solve real-world challenges across multi-disciplinary domains—be it a device, a robot,  a model, or a workflow. 
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 40px;">
 
   <div style="flex: 1; min-width: 300px;">
-    <p><strong>Research interests:</strong></p>
+    <p><strong>🎯 Research interests:</strong></p>
     <ul>
       <li><strong>Physics & Data Driven Modelling</strong></li>
       <li><strong>Sensors & Instrumentation</strong></li>
@@ -47,7 +47,7 @@ My experience in biomedical R&D spans building electro-mechanical systems, elect
   </div>
 
  <div style="flex: 1; min-width: 300px;">
-  <p><strong>Education:</strong></p>
+  <p><strong>🎓 Education:</strong></p>
   <ul>
     <li>
       <strong>M.S. & PhD, Electrical Engineering</strong><br>
