@@ -101,8 +101,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
+            },},{id: "projects-instrumentation-for-periodic-weight-measurement-for-bedridden-patients-on-hospital-beds",
+          title: 'Instrumentation for Periodic Weight Measurement for Bedridden Patients on Hospital Beds',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
