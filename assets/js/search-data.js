@@ -98,7 +98,7 @@ ninja.data = [{
               window.location.href = "/news/announcement_2/";
             },},{id: "projects-wireless-water-level-indicator",
           title: 'Wireless Water Level Indicator',
-          description: "Automated and wireless solution for overhead water tanks based on RF sensors.",
+          description: "Automated and wireless solution for overhead water tanks based on RF sensors",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
             },},{id: "projects-mock-circulation-rigs",
@@ -108,12 +108,12 @@ ninja.data = [{
               window.location.href = "/projects/11_project/";
             },},{id: "projects-iot-power-adaptor",
           title: 'IoT Power Adaptor',
-          description: "A device for Power Monitoring and Control of any electrical appliance, Wi-Fi and Internet Enabled with user friendly Web Server for GUI.",
+          description: "A device for Power Monitoring and Control of any electrical appliance, Wi-Fi and Internet Enabled with user friendly Web Server for GUI",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12_project/";
-            },},{id: "projects-iot-power-adaptor",
-          title: 'IoT Power Adaptor',
-          description: "A device for Power Monitoring and Control of any electrical appliance, Wi-Fi and Internet Enabled with user friendly Web Server for GUI.",
+            },},{id: "projects-speed-control-drive",
+          title: 'Speed Control Drive',
+          description: "B. Tech Major Project -a Speed Control Drive System for AC motorized load, operates either in Temperature Feedback based Controller or Pre-Set Timer with User Interface",
           section: "Projects",handler: () => {
               window.location.href = "/projects/13_project/";
             },},{id: "projects-abu-robocon-robots",
@@ -173,7 +173,7 @@ ninja.data = [{
               window.location.href = "/projects/8_project/";
             },},{id: "projects-tele-operated-tractetory-tracking-robots",
           title: 'Tele-operated Tractetory Tracking Robots',
-          description: "another project with an image 🎉",
+          description: "B. Tech Major Project - a Tele-operated control system of wheeled Mobile Robot, which tracks the path generated with the end effector of a 3DOF robot manipulator in real time.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
