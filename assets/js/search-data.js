@@ -91,6 +91,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
+            },},{id: "projects-wireless-overhead-tank-water-level-alarm",
+          title: 'Wireless Overhead Tank Water Level Alarm',
+          description: "another project with an image 🎉",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
             },},{id: "projects-weighing-bed-scales",
           title: 'Weighing Bed Scales',
           description: "with background image",
