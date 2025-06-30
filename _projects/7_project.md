@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ambulatory Solutions for Arterial Stiffness Measurement
+title: Ambulatory Arterial Stiffness Measurement
 description: with background image
 img: assets/img/4.jpg
 importance: 7

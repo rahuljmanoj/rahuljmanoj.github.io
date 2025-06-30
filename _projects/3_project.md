@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Multi-Modal Arterial Probe for Stiffness Measurement
+title: Multi-Modal Arterial Probe 
 description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---

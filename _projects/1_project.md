@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Weight Measurement for Bedridden Patients on Hospital Beds
+title: Weighing Bed Scales
 description: with background image
 img: assets/img/12.jpg
 importance: 1

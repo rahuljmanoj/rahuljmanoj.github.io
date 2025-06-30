@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Automated Cover-slipper for Large Histopathology Whole Brain Slides
+title: Automated Cover-slipper for Histopathology Slides
 description: an other project with a background image and giscus comments
 img: assets/img/9.jpg
 importance: 9

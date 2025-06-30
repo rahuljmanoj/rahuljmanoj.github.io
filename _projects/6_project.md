@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ECHO-PULSE-TWIN Digital Twin Solution for Heart Faliure Diagnosis
+title: ECHO-PULSE-TWIN for Heart Faliure Diagnosis
 description: a project with no image
 img:
 importance: 6

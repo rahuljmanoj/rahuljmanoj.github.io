@@ -5,7 +5,7 @@ permalink: /projects/
 description: Here you will find information regarding all my projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [work, hobby]
 horizontal: false
 ---
 

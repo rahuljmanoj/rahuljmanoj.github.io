@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Pulse Wave Velocity from Forward-Travelling Pulse Wave
+title: Reflection-Free PWV
 description: another without an image
 img:
 importance: 4
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
