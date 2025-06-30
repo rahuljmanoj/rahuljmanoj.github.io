@@ -3,7 +3,7 @@ layout: page
 title: Heart Faliure Diagnosis
 description: ECHO-PULSE-TWIN a digital twin solutions for estimating left ventricular filling pressures
 img: assets/img/project_6.PNG
-importance: 6
+importance: 1
 category: work
 ---
 

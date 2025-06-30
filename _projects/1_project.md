@@ -3,7 +3,7 @@ layout: page
 title: Weighing Bed Scales
 description: How to measure the weight of a bed-ridden patient?
 img: assets/img/project_1.PNG
-importance: 1
+importance: 6
 category: work
 related_publications: true
 ---
