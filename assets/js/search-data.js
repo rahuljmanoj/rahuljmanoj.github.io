@@ -55,7 +55,7 @@ ninja.data = [{
         
           title: "How not to die Young? Lessons from Cardiovascular Engineering",
         
-        description: "this is what included videos could look like",
+        description: "You are as old as your arteries really are!",
         section: "Posts",
         handler: () => {
           
