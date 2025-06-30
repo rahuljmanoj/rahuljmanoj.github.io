@@ -117,6 +117,17 @@ ninja.data = [{
             window.location.href = "/blog/2020/sinusoids/";
           
         },
+      },{id: "post-how-to-make-pcbs-in-lab-without-fabrication",
+        
+          title: "How to Make PCBs in Lab Without Fabrication ?",
+        
+        description: "Step-by-step guide to making your own PCBs at home or lab using toner transfer and safe etching methods",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/make-pcbs-at-lab/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
