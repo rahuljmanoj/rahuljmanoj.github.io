@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multi-Modal Arterial Probe 
-description: a project that redirects to another website
+description: Dual-element ultrasound trasducer probes with an integrated pressure sensor
 img: assets/img/project_3.jpg
 importance: 3
 category: work
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: assets/img/project_3.jpg
     ---
 
 <div class="row">

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Wireless Water Level Indicator
-description: Automated and wireless solution for overhead water tanks based on RF sensors. 
+title: Mock Circulation Rigs
+description: In-vitro & Ex-vivo laboratory test rig platform for mock circulation loop of heart and systemic arteries 
 img: assets/img/6.jpg
-importance: 10
-category: hobby
+importance: 11
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

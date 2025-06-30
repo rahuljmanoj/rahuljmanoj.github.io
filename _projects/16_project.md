@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Wireless Water Level Indicator
-description: Automated and wireless solution for overhead water tanks based on RF sensors. 
+title: Home Automation 
+description: Home Automation System based on IR Remotes and DTMF Technology
 img: assets/img/6.jpg
-importance: 10
+importance: 16
 category: hobby
 ---
 

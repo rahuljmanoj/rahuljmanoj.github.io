@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Algorithms for Wave Separation
-description: a project with a background image and giscus comments
+title: Pulse Wave Separation
+description: Flow-independent algorithms for arterial pulse wave separation analysis
 img: assets/img/3.jpg
 importance: 2
 category: work

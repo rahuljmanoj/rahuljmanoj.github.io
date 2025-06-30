@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Calibartion-Free BP
-description: a project with a background image
+title: Calibartion-Free Blood Pressure
+description: a novel non-invasive, calibration free models to measure BP and arterial stiffness
 img: assets/img/1.jpg
 importance: 5
 category: work

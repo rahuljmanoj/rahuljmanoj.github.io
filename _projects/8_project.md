@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Automated Cover-slipper for Histopathology Slides
-description: an other project with a background image and giscus comments
+title: Automated Cover-slipper for Tissue Slides
+description: Instrumentation solutions for the Human Brain Initiative in India
 img: assets/img/9.jpg
 importance: 9
 category: work

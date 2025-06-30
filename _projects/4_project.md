@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reflection-Free PWV
-description: another without an image
+description: How to improve the accuracy & precision in measuring pulse wave velocity?
 img:
 importance: 4
 category: work

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Weighing Bed Scales
-description: with background image
-img: assets/img/12.jpg
+description: How to measure the weight of a bed-ridden patient?
+img: assets/img/project_1.jpg
 importance: 1
 category: work
 related_publications: true
@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: assets/img/project_1.jpg
     ---
 
 <div class="row">

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Wireless Water Level Indicator
-description: Automated and wireless solution for overhead water tanks based on RF sensors. 
+title: IoT Power Adaptor
+description: A device for Power Monitoring and Control of any electrical appliance, Wi-Fi and Internet Enabled with user friendly Web Server for GUI.
 img: assets/img/6.jpg
-importance: 10
-category: hobby
+importance: 12
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

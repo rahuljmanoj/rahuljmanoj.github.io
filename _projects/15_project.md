@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Wireless Water Level Indicator
-description: Automated and wireless solution for overhead water tanks based on RF sensors. 
+title: Hand Gesture Controlled Robot 
+description: Based on Inertial Measurement Unit and Arduino
 img: assets/img/6.jpg
-importance: 10
+importance: 15
 category: hobby
 ---
 

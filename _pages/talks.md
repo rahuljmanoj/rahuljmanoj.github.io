@@ -103,6 +103,8 @@ nav_order: 7
 
 2. Introduction to Robotics Workshop, Robotics Intrest Group, NIT Calicu, Kozhikode, India: <b>How to make a Line Following Robot</b>, 13th October 2016
 
+3. Introduction to Robotics Workshop, Robotics Intrest Group, NIT Calicu, Kozhikode, India: <b>Robot Locomotion & Motor Drivers</b>, 13th October 2016
+
 ---
 
 <b>2015</b>
@@ -111,7 +113,13 @@ nav_order: 7
 
 2. Introduction to Robotics Workshop, Robotics Intrest Group, NIT Calicut, Kozhikode, India: <b>How to make a Line Following Robot</b>, 11th Sepetmber 2015
 
-3. Robotics Intrest Group - Internal Seminar Series, NIT Calicut, Kozhikode, India: <b>PID Control for Robotics</b>, 8th January 2015
+3. Introduction to Robotics Workshop, Robotics Intrest Group, NIT Calicu, Kozhikode, India: <b>Robot Locomotion & Motor Drivers</b>, 11th Sepetmber 2015
+
+4. Robotics Intrest Group - Internal Seminar Series, NIT Calicut, Kozhikode, India: <b>PID Control for Robotics</b>, 8th January 2015
+
+5. Robotics Intrest Group - Internal Seminar Series, NIT Calicut, Kozhikode, India: <b>Microcontrollers</b>, 10th June 2015
+
+6. High Schools and Collages, Kerala, India: <b>Introducing Hobby Robotics and on starting a Robotics Club</b>, 2015
 
 ---
 
