@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Tele-operated Tractetory Tracking Robots
-description: another project with an image 🎉
-img: assets/img/6.jpg
-importance: 9
+description: B. Tech Major Project - a Tele-operated control system of wheeled Mobile Robot, which tracks the path generated with the end effector of a 3DOF robot manipulator in real time.
+img: assets/img/project_9.png
+importance: 11
 category: work
 ---
 
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/project_9.png
     ---
 
 <div class="row">

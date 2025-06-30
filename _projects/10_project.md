@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Wireless Water Level Indicator
-description: Automated and wireless solution for overhead water tanks based on RF sensors. 
-img: assets/img/6.jpg
-importance: 10
+description: Automated and wireless solution for overhead water tanks based on RF sensors
+img: assets/img/project_10.jpg
+importance: 15
 category: hobby
 ---
 
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/project_10.jpg
     ---
 
 <div class="row">

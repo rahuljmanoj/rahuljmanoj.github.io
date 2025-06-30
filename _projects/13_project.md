@@ -1,9 +1,9 @@
 ---
 layout: page
-title: IoT Power Adaptor
-description: A device for Power Monitoring and Control of any electrical appliance, Wi-Fi and Internet Enabled with user friendly Web Server for GUI.
-img: assets/img/6.jpg
-importance: 12
+title: Speed Control Drive
+description: B. Tech Major Project -a Speed Control Drive System for AC motorized load, operates either in Temperature Feedback based Controller or Pre-Set Timer with User Interface
+img: assets/img/project_13.jpg
+importance: 13
 category: work
 ---
 
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/project_13.jpg
     ---
 
 <div class="row">

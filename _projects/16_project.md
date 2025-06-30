@@ -2,7 +2,7 @@
 layout: page
 title: Home Automation 
 description: Home Automation System based on IR Remotes and DTMF Technology
-img: assets/img/6.jpg
+img: assets/img/project_16.png
 importance: 16
 category: hobby
 ---
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/project_16.png
     ---
 
 <div class="row">

@@ -2,8 +2,8 @@
 layout: page
 title: Hand Gesture Controlled Robot 
 description: Based on Inertial Measurement Unit and Arduino
-img: assets/img/6.jpg
-importance: 15
+img: assets/img/project_15.jpg
+importance: 17
 category: hobby
 ---
 
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/project_15.jpg
     ---
 
 <div class="row">

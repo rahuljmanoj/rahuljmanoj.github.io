@@ -1,8 +1,8 @@
 ---
 layout: page
 title: IoT Power Adaptor
-description: A device for Power Monitoring and Control of any electrical appliance, Wi-Fi and Internet Enabled with user friendly Web Server for GUI.
-img: assets/img/6.jpg
+description: A device for Power Monitoring and Control of any electrical appliance, Wi-Fi and Internet Enabled with user friendly Web Server for GUI
+img: assets/img/project_12.jpg
 importance: 12
 category: work
 ---
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/project_12.jpg
     ---
 
 <div class="row">

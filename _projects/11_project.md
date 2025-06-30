@@ -2,8 +2,8 @@
 layout: page
 title: Mock Circulation Rigs
 description: In-vitro & Ex-vivo laboratory test rig platform for mock circulation loop of heart and systemic arteries 
-img: assets/img/6.jpg
-importance: 11
+img: assets/img/project_11.jpg
+importance: 8
 category: work
 ---
 
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/project_11.jpg
     ---
 
 <div class="row">
