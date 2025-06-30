@@ -2,7 +2,7 @@
 layout: page
 permalink: /patents/
 title: patents
-description: Patented Technologies
+description: "Here you will find information regarding all my patented technologies."
 nav: true
 nav_order: 6
 ---

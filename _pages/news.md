@@ -1,6 +1,7 @@
 ---
 layout: page
 title: news
+description: "Here you will find all past updates and announcements."
 permalink: /news/
 nav: true
 nav_order: 8
@@ -14,11 +15,10 @@ pagination:
   trail:
     before: 1
     after: 3
+blog_name: " " # disable inherited blog name
+blog_description: " " # disable inherited blog description
+show_tags: false
 ---
-
-# News
-
-Here you will find all past updates and announcements.
 
 <ul class="post-list">
   {% for post in paginator.posts %}
