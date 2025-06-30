@@ -78,7 +78,12 @@ ninja.data = [{
           section: "News",},{id: "news-joined-as-a-postdoctoral-reserach-fellow-with-the-division-of-biomechanics-department-of-structral-engineering-at-ntnu-norway",
           title: 'Joined as a Postdoctoral Reserach Fellow with the Division of Biomechanics, Department of...',
           description: "",
-          section: "News",},{id: "news-selected-for-a-2-year-term-2025-2026-at-the-young-scientists-committe-of-the-vph-institute-check-out-the-links-for-more-details",
+          section: "News",},{id: "news-featured-in-swayam-prabha-yt-channel-ch-32-iit-madras-bridge-courses-impact-series-on-explaining-the-cardiovascular-initiatives-at-htic-iit-madras",
+          title: 'Featured in Swayam Prabha YT Channel CH 32 IIT Madras Bridge Courses, Impact...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_7/";
+            },},{id: "news-selected-for-a-2-year-term-2025-2026-at-the-young-scientists-committe-of-the-vph-institute-check-out-the-links-for-more-details",
           title: 'Selected for a 2-year term (2025-2026) at the Young Scientists Committe of the...',
           description: "",
           section: "News",},{id: "news-participated-in-the-1st-eu-horizon-vital-project-training-school-at-tu-delft-from-march-18-21-2025",
