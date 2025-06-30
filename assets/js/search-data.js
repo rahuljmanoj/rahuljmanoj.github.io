@@ -91,43 +91,43 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-weight-measurement-for-bedridden-patients-on-hospital-beds",
-          title: 'Weight Measurement for Bedridden Patients on Hospital Beds',
+            },},{id: "projects-weighing-bed-scales",
+          title: 'Weighing Bed Scales',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-flow-independent-arterial-pulse-wave-separation-analysis",
-          title: 'Flow-Independent Arterial Pulse Wave Separation Analysis',
+            },},{id: "projects-algorithms-for-wave-separation",
+          title: 'Algorithms for Wave Separation',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-multi-modal-arterial-probe-for-stiffness-measurement",
-          title: 'Multi-Modal Arterial Probe for Stiffness Measurement',
+            },},{id: "projects-multi-modal-arterial-probe",
+          title: 'Multi-Modal Arterial Probe',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-pulse-wave-velocity-from-forward-travelling-pulse-wave",
-          title: 'Pulse Wave Velocity from Forward-Travelling Pulse Wave',
+            },},{id: "projects-reflection-free-pwv",
+          title: 'Reflection-Free PWV',
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-calibartion-free-models-for-estimating-arterial-stiffness-amp-bp",
-          title: 'Calibartion-Free Models for Estimating Arterial Stiffness &amp;amp; BP',
+            },},{id: "projects-calibartion-free-bp",
+          title: 'Calibartion-Free BP',
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-echo-pulse-twin-digital-twin-solution-for-heart-faliure-diagnosis",
-          title: 'ECHO-PULSE-TWIN Digital Twin Solution for Heart Faliure Diagnosis',
+            },},{id: "projects-echo-pulse-twin-for-heart-faliure-diagnosis",
+          title: 'ECHO-PULSE-TWIN for Heart Faliure Diagnosis',
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-ambulatory-solutions-for-arterial-stiffness-measurement",
-          title: 'Ambulatory Solutions for Arterial Stiffness Measurement',
+            },},{id: "projects-ambulatory-arterial-stiffness-measurement",
+          title: 'Ambulatory Arterial Stiffness Measurement',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-automated-cover-slipper-for-large-histopathology-whole-brain-slides",
-          title: 'Automated Cover-slipper for Large Histopathology Whole Brain Slides',
+            },},{id: "projects-automated-cover-slipper-for-histopathology-slides",
+          title: 'Automated Cover-slipper for Histopathology Slides',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
