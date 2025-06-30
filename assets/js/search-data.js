@@ -163,7 +163,7 @@ ninja.data = [{
               window.location.href = "/projects/6_project/";
             },},{id: "projects-ambulatory-arterial-stiffness-measurement",
           title: 'Ambulatory Arterial Stiffness Measurement',
-          description: "with background image",
+          description: "On the go prototypes for daily stiffness tracking",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-automated-cover-slipper-for-tissue-slides",
