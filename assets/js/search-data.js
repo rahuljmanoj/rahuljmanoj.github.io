@@ -115,7 +115,7 @@ ninja.data = [{
           title: 'IoT Power Adaptor',
           description: "A device for Power Monitoring and Control of any electrical appliance, Wi-Fi and Internet Enabled with user friendly Web Server for GUI.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/13_project%20/";
+              window.location.href = "/projects/13_project/";
             },},{id: "projects-abu-robocon-robots",
           title: 'ABU RoboCON Robots',
           description: "Design, Fabrication and Control of ABU ROBOCON India (National Level) Manual and Autonomous Robots for the year 2013, 2014 and 2015, as per the problem statement of the contest for each year.",
