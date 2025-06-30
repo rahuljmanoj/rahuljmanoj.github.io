@@ -73,17 +73,6 @@ ninja.data = [{
             window.location.href = "/blog/2021/ac-power-rms-power/";
           
         },
-      },{id: "post-why-electricity-is-generated-as-sinusoids",
-        
-          title: "Why Electricity is Generated as Sinusoids?",
-        
-        description: "Have you ever wondered why we generate electricity as sinusoidal waveforms, Why not triangular, square waveform ?",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2021/sinusoids/";
-          
-        },
       },{id: "post-introduction-to-microcontrollers-the-brains-behind-everyday-electronics",
         
           title: "Introduction to Microcontrollers - The Brains Behind Everyday Electronics",
@@ -93,6 +82,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2020/intro-to-mcu/";
+          
+        },
+      },{id: "post-why-electricity-is-generated-as-sinusoids",
+        
+          title: "Why Electricity is Generated as Sinusoids?",
+        
+        description: "Have you ever wondered why we generate electricity as sinusoidal waveforms, Why not triangular, square waveform ?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/sinusoids/";
           
         },
       },{id: "books-the-godfather",
