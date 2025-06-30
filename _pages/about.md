@@ -24,7 +24,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
 Thank you for visiting my profile 🙂
 
 I am an electrical engineer and interdisciplinary research scientist specialized in biomedical instrumentation and technology development for healthcare applications.
