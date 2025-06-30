@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/patents/";
           },
+        },{id: "nav-talks",
+          title: "talks",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/talks/";
+          },
         },{id: "post-how-not-to-die-young-lessons-from-cardiovascular-engineering",
         
           title: "How not to die Young? Lessons from Cardiovascular Engineering",
