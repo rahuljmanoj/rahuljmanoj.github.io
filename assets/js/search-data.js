@@ -72,6 +72,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
+            },},{id: "news-1st-patent-granted-on-cuffless-and-calibartion-free-bp-meaqsurement-system-amp-methods",
+          title: '1st Patent Granted on Cuffless and Calibartion-Free BP Meaqsurement System &amp;amp; Methods',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_8/";
             },},{id: "news-defended-my-phd-thesis-and-graduated-from-indian-institute-of-technology-iit-madras-for-dual-degree-m-s-and-ph-d",
           title: 'Defended my PhD Thesis and graduated from Indian Institute of Technology (IIT) Madras...',
           description: "",
