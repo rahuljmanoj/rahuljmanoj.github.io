@@ -62,6 +62,39 @@ ninja.data = [{
             window.location.href = "/blog/2024/how-not-to-die-young/";
           
         },
+      },{id: "post-understanding-average-power-rms-power-and-ac-power",
+        
+          title: "Understanding Average Power, RMS Power, and AC Power",
+        
+        description: "A clear explanation of the differences between average power, RMS power, and AC power for beginners in electrical engineering and electronics.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/ac-power-rms-power/";
+          
+        },
+      },{id: "post-why-electricity-is-generated-as-sinusoids",
+        
+          title: "Why Electricity is Generated as Sinusoids?",
+        
+        description: "Have you ever wondered why we generate electricity as sinusoidal waveforms, Why not triangular, square waveform ?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/sinusoids/";
+          
+        },
+      },{id: "post-introduction-to-microcontrollers-the-brains-behind-everyday-electronics",
+        
+          title: "Introduction to Microcontrollers - The Brains Behind Everyday Electronics",
+        
+        description: "You might already be familiar with the world-famous, revolutionary semiconductor device called the transistor. But have you ever wondered what happens when thousands of transistors come together in one chip?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/intro-to-mcu/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
