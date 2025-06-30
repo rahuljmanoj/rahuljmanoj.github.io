@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-talks",
           title: "talks",
-          description: "Here you will find information regarding all my deliverd talks.",
+          description: "A chronological list of invited talks, presentations, and workshops delivered over the years",
           section: "Navigation",
           handler: () => {
             window.location.href = "/talks/";
