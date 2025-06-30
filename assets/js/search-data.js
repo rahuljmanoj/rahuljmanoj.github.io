@@ -51,6 +51,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/talks/";
           },
+        },{id: "nav-news",
+          title: "news",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/index.html";
+          },
         },{id: "post-how-not-to-die-young-lessons-from-cardiovascular-engineering",
         
           title: "How not to die Young? Lessons from Cardiovascular Engineering",
