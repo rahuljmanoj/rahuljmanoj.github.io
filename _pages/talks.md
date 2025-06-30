@@ -121,7 +121,7 @@ nav_order: 7
 
 <hr>
 
-<p>If you would like to discuss any of these talks, collaborate, or invite me to give a talk at your event, please feel free to <a href="/contact/">get in touch</a>.</p>
+<p>If you would like to discuss any of these talks, collaborate, or invite me to give a talk at your event, please feel free to get in touch. </p>
 
 
 
