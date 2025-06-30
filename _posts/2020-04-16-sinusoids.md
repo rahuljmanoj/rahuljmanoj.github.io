@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Electricity is Generated as Sinusoids?
-date: 2021-06-01 21:01:00
+date: 2020-04-16 21:01:00
 description: Have you ever wondered why we generate electricity as sinusoidal waveforms, Why not triangular, square waveform ?
 tags: electronics
 ---
