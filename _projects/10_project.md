@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Multi-Modal Arterial Probe 
-description: a project that redirects to another website
-img: assets/img/project_3.jpg
-importance: 3
-category: work
+title: Wireless Overhead Tank Water Level Alarm
+description: another project with an image 🎉
+img: assets/img/6.jpg
+importance: 10
+category: hobby
 ---
 
 Every project has a beautiful feature showcase page.
