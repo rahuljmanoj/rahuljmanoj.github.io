@@ -62,6 +62,28 @@ ninja.data = [{
             window.location.href = "/blog/2024/how-not-to-die-young/";
           
         },
+      },{id: "post-understanding-avr-fuse-bits",
+        
+          title: "Understanding AVR Fuse Bits",
+        
+        description: "A practical, clear guide to AVR fuse bits, their purpose, and how to configure them safely with AVRDUDE.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/avr-fuse-bits/";
+          
+        },
+      },{id: "post-using-avrdude-to-program-your-avr-microcontrollers",
+        
+          title: "Using AVRDUDE to Program Your AVR Microcontrollers",
+        
+        description: "A practical ready-reference for using AVRDUDE to upload, download, and configure your Atmel AVR microcontrollers with clear examples.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/avrdude/";
+          
+        },
       },{id: "post-understanding-average-power-rms-power-and-ac-power",
         
           title: "Understanding Average Power, RMS Power, and AC Power",
