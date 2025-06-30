@@ -336,26 +336,30 @@
 {% endif %}
 
 
-<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  var subtitleEl = document.getElementById('animated-subtitle');
-  if (subtitleEl) {
-    new Typed('#animated-subtitle', {
-      strings: [
-        "Research Scientist at NTNU",
-        "Cardiovascular Engineer",
-        "Biomechanics Enthusiast",
-        "Digital Twin Developer",
-        "Physics & Data Modeling Explorer"
-      ],
-      typeSpeed: 50,
-      backSpeed: 30,
-      backDelay: 2000,
-      startDelay: 500,
-      loop: true,
-      showCursor: false
-    });
+  const subtitles = [
+    "Research Scientist",
+    "Postdoctoral Research Fellow | Norwegian University of Science & Technology",
+    "Electrical Engineer",
+    "Electronics Hobbyist",
+    "Biomedical Engineer"
+  ];
+
+  const subtitleEl = document.getElementById('animated-subtitle');
+  let index = 0;
+
+  function showNextSubtitle() {
+    subtitleEl.style.transition = "opacity 0.5s ease-in-out";
+    subtitleEl.style.opacity = 0;
+    setTimeout(() => {
+      subtitleEl.textContent = subtitles[index];
+      subtitleEl.style.opacity = 1;
+      index = (index + 1) % subtitles.length;
+    }, 500);
   }
+
+  showNextSubtitle();
+  setInterval(showNextSubtitle, 3000);
 });
 </script>

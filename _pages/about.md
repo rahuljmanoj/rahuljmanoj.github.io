@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist | Norwegian University of Science & Technology
+subtitle: 
 
 profile:
   align: right
