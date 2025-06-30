@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ambulatory Arterial Stiffness Measurement
-description: with background image
+description: On the go prototypes for daily stiffness tracking
 img: assets/img/4.jpg
 importance: 7
 category: work
