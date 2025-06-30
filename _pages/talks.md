@@ -65,7 +65,7 @@ nav_order: 7
 
 <b>2021</b>
 
-1. HTIC CV Group Journal Hour Talk Series 2021, HTIC, IIT Madras Research Park, India:<b>Arterial Pulse Wave Reflections: Boon or Bane?</b>, 14th June 2021
+1. HTIC CV Group Journal Hour Talk Series 2021, HTIC, IIT Madras Research Park, India: <b>Arterial Pulse Wave Reflections: Boon or Bane?</b>, 14th June 2021
 
 2. HTIC - Med Tech Incubator Talk Series, IIT Madras Research Park, Chennai, India (Online): <b>Blood Pressure Measurement-Current Methodologies & Research</b>, 20th February 2021
 
