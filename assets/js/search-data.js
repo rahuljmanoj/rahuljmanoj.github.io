@@ -91,39 +91,69 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-wireless-overhead-tank-water-level-alarm",
-          title: 'Wireless Overhead Tank Water Level Alarm',
-          description: "another project with an image 🎉",
+            },},{id: "projects-wireless-water-level-indicator",
+          title: 'Wireless Water Level Indicator',
+          description: "Automated and wireless solution for overhead water tanks based on RF sensors.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
+            },},{id: "projects-mock-circulation-rigs",
+          title: 'Mock Circulation Rigs',
+          description: "In-vitro &amp; Ex-vivo laboratory test rig platform for mock circulation loop of heart and systemic arteries",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/11_project/";
+            },},{id: "projects-iot-power-adaptor",
+          title: 'IoT Power Adaptor',
+          description: "A device for Power Monitoring and Control of any electrical appliance, Wi-Fi and Internet Enabled with user friendly Web Server for GUI.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/12_project/";
+            },},{id: "projects-iot-power-adaptor",
+          title: 'IoT Power Adaptor',
+          description: "A device for Power Monitoring and Control of any electrical appliance, Wi-Fi and Internet Enabled with user friendly Web Server for GUI.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/13_project%20/";
+            },},{id: "projects-abu-robocon-robots",
+          title: 'ABU RoboCON Robots',
+          description: "Design, Fabrication and Control of ABU ROBOCON India (National Level) Manual and Autonomous Robots for the year 2013, 2014 and 2015, as per the problem statement of the contest for each year.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/14_project/";
+            },},{id: "projects-hand-gesture-controlled-robot",
+          title: 'Hand Gesture Controlled Robot',
+          description: "Based on Inertial Measurement Unit and Arduino",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/15_project/";
+            },},{id: "projects-home-automation",
+          title: 'Home Automation',
+          description: "Home Automation System based on IR Remotes and DTMF Technology",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/16_project/";
             },},{id: "projects-weighing-bed-scales",
           title: 'Weighing Bed Scales',
-          description: "with background image",
+          description: "How to measure the weight of a bed-ridden patient?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-algorithms-for-wave-separation",
-          title: 'Algorithms for Wave Separation',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-pulse-wave-separation",
+          title: 'Pulse Wave Separation',
+          description: "Flow-independent algorithms for arterial pulse wave separation analysis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-multi-modal-arterial-probe",
           title: 'Multi-Modal Arterial Probe',
-          description: "a project that redirects to another website",
+          description: "Dual-element ultrasound trasducer probes with an integrated pressure sensor",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-reflection-free-pwv",
           title: 'Reflection-Free PWV',
-          description: "another without an image",
+          description: "How to improve the accuracy &amp; precision in measuring pulse wave velocity?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-calibartion-free-bp",
-          title: 'Calibartion-Free BP',
-          description: "a project with a background image",
+            },},{id: "projects-calibartion-free-blood-pressure",
+          title: 'Calibartion-Free Blood Pressure',
+          description: "a novel non-invasive, calibration free models to measure BP and arterial stiffness",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-echo-pulse-twin-for-heart-faliure-diagnosis",
-          title: 'ECHO-PULSE-TWIN for Heart Faliure Diagnosis',
-          description: "a project with no image",
+            },},{id: "projects-heart-faliure-diagnosis",
+          title: 'Heart Faliure Diagnosis',
+          description: "ECHO-PULSE-TWIN a digital twin solutions for estimating left ventricular filling pressures",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-ambulatory-arterial-stiffness-measurement",
@@ -131,9 +161,9 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-automated-cover-slipper-for-histopathology-slides",
-          title: 'Automated Cover-slipper for Histopathology Slides',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-automated-cover-slipper-for-tissue-slides",
+          title: 'Automated Cover-slipper for Tissue Slides',
+          description: "Instrumentation solutions for the Human Brain Initiative in India",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-tele-operated-tractetory-tracking-robots",
