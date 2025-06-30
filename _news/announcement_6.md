@@ -13,7 +13,7 @@ The lectures specificaly included topics in systems modeling, including bond gra
 A personal highlight was meeting some of the experts whose work I’ve often referred to in my own readings and articles—it was truly inspiring to engage with them in person and learn from their insights.
 
 I also presented my ongoing works at NTNU related to Physics and Data Driven modelling to enchance cardiovascular clinical care.[Click here to view the poster](https://rahuljmanoj.github.io/assets/pdf/Poster_Rahul_VITAL_Training_School.pdf)
----
+
 [Click here to check out the GitHub Resipository of the Training School](https://github.com/VITAL-horizoneurope/trainingschool01/).
 
 <p align="center">
