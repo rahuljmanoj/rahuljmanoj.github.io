@@ -33,7 +33,7 @@ nav_order: 7
 
 5. PhD Thesis Submission Approval Meeting/Syonpsis, IIT Madras, Chennai, India (Online): <b>Demystifying the Arterial Pulse – a System & Method to Quantify Pulse Wave Reflection and its Novel Applications</b>, 12th June 2024
 
-6. ACT Lab | HTIC CV Group | Physio Sense | Journal Hour Talk Series 2024, HTIC, IIT Madras Research Park, India: <b>Arterial Pulse Wave Separation using Cepstral Analysis (Homomorphic Deconvolution)</b>, 6th May 2024 
+6. Advanced Cardiovascular Technologies Lab (ACT Lab) Journal Hour Talk Series 2024, HTIC, IIT Madras Research Park, India: <b>Arterial Pulse Wave Separation using Cepstral Analysis (Homomorphic Deconvolution)</b>, 6th May 2024 
 
 7. Electrical Engineering Research Scholars Symposium 2024,IIT Madras, Chennai, India: <b>How not to die Young? Lessons from Cardiovascular Engineering</b>, 6th April 2024 
 
@@ -49,11 +49,11 @@ nav_order: 7
 
 <b>2022</b>
 
-1. IEEE Engineering in Medicine & Biology Conference (EMBC) Oral Presentaion, Glasgow, UK: <b>Deep learning based non-contact physiological monitoring in Neonatal Intensive Care Unit</b>, 11th July 2022
+1. IEEE Engineering in Medicine & Biology Conference (EMBC), Glasgow, UK: <b>Deep learning based non-contact physiological monitoring in Neonatal Intensive Care Unit</b>, 11th July 2022
 
-2. IEEE Engineering in Medicine & Biology Conference (EMBC) Poster Presentaion, Glasgow, UK: <b>Estimation of Characteristic Impedance using Multi-Gaussian Modelled Flow Velocity Waveform: A Virtual Subjects Study</b>, 13th July 2022 
+2. IEEE Engineering in Medicine & Biology Conference (EMBC), Glasgow, UK: Poster Presentaion on <b>Estimation of Characteristic Impedance using Multi-Gaussian Modelled Flow Velocity Waveform: A Virtual Subjects Study</b>, 13th July 2022 
 
-3. IEEE Engineering in Medicine & Biology Conference (EMBC) Poster Presentaion, Glasgow, UK: <b>Evaluation of Pulse Contour Markers using an A-Mode Ultrasound: Association with Carotid Stiffness Markers and Ageing</b>, 13th July 2022 
+3. IEEE Engineering in Medicine & Biology Conference (EMBC), Glasgow, UK: Poster Presentaion on <b>Evaluation of Pulse Contour Markers using an A-Mode Ultrasound: Association with Carotid Stiffness Markers and Ageing</b>, 13th July 2022 
 
 4. IEEE Medical Measurements & Applications (MeMeA) Symposium, Messina, Italy (Online): <b>Variation in Pulse Contour Markers on an Anesthetized Porcine During Pressure Perturbation: Association with Local and Regional Stiffness</b>, 23rd June 2022 
 
