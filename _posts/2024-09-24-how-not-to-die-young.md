@@ -2,9 +2,8 @@
 layout: post
 title: How not to die Young? Lessons from Cardiovascular Engineering
 date: 2024-09-24 21:01:00
-description: this is what included videos could look like
-tags: formatting videos
-categories: cardiovascular
+description: You are as old as your arteries really are!
+tags: cardiovascular
 ---
 
 I delivered an 18-minute TED-style talk based on my PhD research in cardiovascular engineering, targeting a generic electrical engineering (EE) audience, assuming no prior background in my research domain. It was challenging for me to deliver a talk without delving into the domain-specific details or methodology (which we usually do) and yet convincingly capture the audience’s attention and deliver a value addition to them. A total of 7 PhD and 2 MS scholars were selected to deliver their research on April 6, 2024, as part of the prestigious EE Research Scholars Symposium 2024 held at the majestic TTJ auditorium, ICSR building, Indian Institute of Technology Madras (IIT M). I was awarded the title of 2nd best speaker for my talk.
@@ -23,6 +22,14 @@ Click below to check out the full talk on YouTube:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=NV-kwZMy_3A" class="img-fluid rounded z-depth-1" %}
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe 
+                class="embed-responsive-item img-fluid rounded z-depth-1"
+                src="https://www.youtube.com/embed/NV-kwZMy_3A" 
+                allowfullscreen
+                frameborder="0"
+                loading="lazy"
+            ></iframe>
+        </div>
     </div>
 </div>
