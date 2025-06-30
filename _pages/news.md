@@ -9,7 +9,7 @@ pagination:
   enabled: true
   collection: news
   permalink: /news/page/:num/
-  per_page: 5
+  per_page: 10
   sort_field: date
   sort_reverse: true
   trail:
@@ -19,7 +19,6 @@ blog_name: " " # disable inherited blog name
 blog_description: " " # disable inherited blog description
 show_tags: false
 ---
-
 <ul class="post-list">
   {% for post in paginator.posts %}
     <li>
