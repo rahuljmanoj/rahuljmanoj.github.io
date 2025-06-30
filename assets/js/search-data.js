@@ -96,7 +96,12 @@ ninja.data = [{
           section: "News",},{id: "news-selected-for-a-2-year-term-2025-2026-at-the-young-scientists-committe-of-the-vph-institute-check-out-the-links-for-more-details",
           title: 'Selected for a 2-year term (2025-2026) at the Young Scientists Committe of the...',
           description: "",
-          section: "News",},{id: "news-won-the-popular-prize-for-the-international-modelling-challenge-digital-twin-builder-for-heath-incubator-by-isi-health-ku-leuven-belgium",
+          section: "News",},{id: "news-participated-in-the-1st-eu-horizon-vital-project-training-school-at-tu-delft-from-march-18-21-2025",
+          title: 'Participated in the 1st EU Horizon VITAL Project training school at TU Delft...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_6/";
+            },},{id: "news-won-the-popular-prize-for-the-international-modelling-challenge-digital-twin-builder-for-heath-incubator-by-isi-health-ku-leuven-belgium",
           title: 'Won the Popular Prize for the International Modelling Challenge:Digital Twin Builder for Heath...',
           description: "",
           section: "News",handler: () => {
