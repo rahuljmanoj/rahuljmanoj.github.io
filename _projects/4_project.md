@@ -2,7 +2,7 @@
 layout: page
 title: Reflection-Free PWV
 description: How to improve the accuracy & precision in measuring pulse wave velocity?
-img:
+img: assets/img/project_4.jpg
 importance: 4
 category: work
 ---
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/project_4.jpg
     ---
 
 <div class="row">

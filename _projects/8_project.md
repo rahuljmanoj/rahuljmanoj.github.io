@@ -2,7 +2,7 @@
 layout: page
 title: Automated Cover-slipper for Tissue Slides
 description: Instrumentation solutions for the Human Brain Initiative in India
-img: assets/img/9.jpg
+img: assets/img/project_8.jpg
 importance: 9
 category: work
 giscus_comments: true
@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/project_8.jpg
     ---
 
 <div class="row">

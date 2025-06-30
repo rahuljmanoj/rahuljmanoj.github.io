@@ -2,7 +2,7 @@
 layout: page
 title: Calibartion-Free Blood Pressure
 description: a novel non-invasive, calibration free models to measure BP and arterial stiffness
-img: assets/img/1.jpg
+img: assets/img/project_5.jpg
 importance: 5
 category: work
 ---
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/project_4.jpg
     ---
 
 <div class="row">

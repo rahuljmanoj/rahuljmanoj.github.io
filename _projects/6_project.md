@@ -2,7 +2,7 @@
 layout: page
 title: Heart Faliure Diagnosis
 description: ECHO-PULSE-TWIN a digital twin solutions for estimating left ventricular filling pressures
-img:
+img: assets/img/project_6.jpg
 importance: 6
 category: work
 ---
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/project_6.jpg
     ---
 
 <div class="row">
