@@ -2,14 +2,11 @@
 layout: page
 permalink: /talks/
 title: talks
-description: A chronological list of invited talks, presentations, and workshops delivered over the years
+description: This is a chronological archive of invited talks, presentations, and workshops delivered across academia, conferences, and outreach activities
 nav: true
 nav_order: 7
 ---
 <h1>Talks & Presentations Archive</h1>
-
-<p>This is a chronological archive of invited talks, presentations, and workshops delivered across academia, conferences, and outreach activities.</p>
-
 <hr>
 
 <h2>2025</h2>
