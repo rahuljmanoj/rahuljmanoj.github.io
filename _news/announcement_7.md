@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Featured in Swayam Prabha YT Channel CH 32 IIT Madras Bridge Courses, Impact Series! on explaining the cardiovascular initiatives at HTIC-IIT Madras
+title: Featured in Swayam Prabha YT Channel CH 32 IIT Madras Bridge Courses, Impact Series! on discussing the cardiovascular initiatives at HTIC-IIT Madras
 date: 2025-01-03 25:11:00-0400
 inline: false
 related_posts: false
