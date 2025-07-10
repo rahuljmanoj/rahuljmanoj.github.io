@@ -88,7 +88,7 @@ On the final day we pitched ECHO-PULSE-TWIN in a 5-minute lightning talk and won
     <div class="embed-responsive embed-responsive-16by9">
       <iframe
         class="embed-responsive-item img-fluid rounded z-depth-1"
-        src="https://youtu.be/CBmNpZsw8QA"
+        src="https://www.youtube.com/watch?v=CBmNpZsw8QA"
         title="ECHO-PULSE-TWIN pitch"
         allowfullscreen
         frameborder="0"
