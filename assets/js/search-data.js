@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/index.html";
           },
-        },{id: "post-how-not-to-die-young-lessons-from-cardiovascular-engineering",
+        },{id: "post-what-if-we-could-stop-heart-failure-before-it-starts",
+        
+          title: "What if we could stop heart failure—before it starts?",
+        
+        description: "Your digital twin that listens to your heart—when echo alone can’t",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/what-if-we-can-stop-hf-before-it-starts/";
+          
+        },
+      },{id: "post-how-not-to-die-young-lessons-from-cardiovascular-engineering",
         
           title: "How not to die Young? Lessons from Cardiovascular Engineering",
         
