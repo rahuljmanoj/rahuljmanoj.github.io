@@ -202,11 +202,51 @@ ninja.data = [{
           description: "Home Automation System based on IR Remotes and DTMF Technology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/16_project/";
+            },},{id: "projects-omni-wheels-3-wheeled-drive-system",
+          title: 'Omni-Wheels 3-wheeled Drive System',
+          description: "A robot 3-wheel drive system built using Omni Wheels",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/17_project/";
+            },},{id: "projects-ir-remote-controlled-object-avoidance-robot",
+          title: 'IR Remote Controlled Object Avoidance Robot',
+          description: "IR TV Remotes are hacked to use as a joystick for robot control and ultrasound trasducers are employed for object detection and avoidance.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/18_project/";
+            },},{id: "projects-quadrature-wheel-encoders",
+          title: 'Quadrature Wheel Encoders',
+          description: "IR - Photodiode based positional and velocity tracking encoders for wheels",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/19_project/";
             },},{id: "projects-weighing-bed-scales",
           title: 'Weighing Bed Scales',
           description: "How to measure the weight of a bed-ridden patient?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-lcd-integration-with-avr-mcus",
+          title: 'LCD Integration with AVR MCUs',
+          description: "An LCD is integrated for display using Embedded C &amp; AVR MUCs",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/20_project/";
+            },},{id: "projects-pid-controlled-line-following-robot",
+          title: 'PID controlled Line Following Robot',
+          description: "A Line following robot is integrated with PID control for smooth navigation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/21_project/";
+            },},{id: "projects-mosfet-h-bridge-motor-driver",
+          title: 'MOSFET H-Bridge Motor Driver',
+          description: "Design and Testing of a MOSFET based H-bridge motor driver from scratch",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/22_project/";
+            },},{id: "projects-usbasp-for-flashing-mcu",
+          title: 'USBasp for Flashing MCU',
+          description: "Builing a USBasp from scratch - from PCB design to Fabrication to Flashing an MCU",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/23_project/";
+            },},{id: "projects-personal-finance-101",
+          title: 'Personal Finance 101',
+          description: "My learnings related to personal finance management - from insurnace, stock market, mutual funds",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/24_project/";
             },},{id: "projects-pulse-wave-separation",
           title: 'Pulse Wave Separation',
           description: "Flow-independent algorithms for arterial pulse wave separation analysis",
