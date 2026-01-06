@@ -8,12 +8,6 @@ category: work
 related_publications: true
 ---
 
-### Technical Keywords
-Biomedical Instrumentation · Pressure Sensing · Pneumatics · Hydraulics · Control Systems · Data Acquisition · Patient Monitoring · ICU Devices · Translational Engineering
-
----
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
