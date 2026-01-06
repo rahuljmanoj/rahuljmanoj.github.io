@@ -182,17 +182,17 @@ ninja.data = [{
           title: 'Wireless Water Level Indicator',
           description: "Automated and wireless solution for overhead water tanks based on RF sensors",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/10_project/";
+              window.location.href = "/projects/10_project_water_level_indicator/";
             },},{id: "projects-mock-circulation-rigs",
           title: 'Mock Circulation Rigs',
           description: "In-vitro &amp; Ex-vivo laboratory test rig platform for mock circulation loop of heart and systemic arteries",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/11_project/";
+              window.location.href = "/projects/11_project_mock%20circulation_rigs/";
             },},{id: "projects-iot-power-adaptor",
           title: 'IoT Power Adaptor',
           description: "A device for Power Monitoring and Control of any electrical appliance, Wi-Fi and Internet Enabled with user friendly Web Server for GUI",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/12_project/";
+              window.location.href = "/projects/12_project_IOT_power/";
             },},{id: "projects-speed-control-drive",
           title: 'Speed Control Drive',
           description: "B. Tech Major Project -a Speed Control Drive System for AC motorized load, operates either in Temperature Feedback based Controller or Pre-Set Timer with User Interface",
@@ -228,11 +228,11 @@ ninja.data = [{
           description: "IR - Photodiode based positional and velocity tracking encoders for wheels",
           section: "Projects",handler: () => {
               window.location.href = "/projects/19_project/";
-            },},{id: "projects-weighing-bed-scales",
-          title: 'Weighing Bed Scales',
+            },},{id: "projects-from-flexible-sensors-to-smart-beds-a-journey-in-patient-weight-monitoring",
+          title: 'From Flexible Sensors to Smart Beds — A Journey in Patient Weight Monitoring...',
           description: "How to measure the weight of a bed-ridden patient?",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/1_project_weighing_bed_scales/";
             },},{id: "projects-lcd-integration-with-avr-mcus",
           title: 'LCD Integration with AVR MCUs',
           description: "An LCD is integrated for display using Embedded C &amp; AVR MUCs",
@@ -262,42 +262,42 @@ ninja.data = [{
           title: 'Pulse Wave Separation',
           description: "Flow-independent algorithms for arterial pulse wave separation analysis",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/2_project_WSA/";
             },},{id: "projects-multi-modal-arterial-probe",
           title: 'Multi-Modal Arterial Probe',
           description: "Dual-element ultrasound trasducer probes with an integrated pressure sensor",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/3_project_multi_modal_probe/";
             },},{id: "projects-reflection-free-pwv",
           title: 'Reflection-Free PWV',
           description: "How to improve the accuracy &amp; precision in measuring pulse wave velocity?",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/projects/4_project_reflection_free_PWV/";
             },},{id: "projects-calibartion-free-blood-pressure",
           title: 'Calibartion-Free Blood Pressure',
           description: "a novel non-invasive, calibration free models to measure BP and arterial stiffness",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
+              window.location.href = "/projects/5_project_calibration_free_BP/";
             },},{id: "projects-heart-faliure-diagnosis",
           title: 'Heart Faliure Diagnosis',
           description: "ECHO-PULSE-TWIN a digital twin solutions for estimating left ventricular filling pressures",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
+              window.location.href = "/projects/6_project_echo_pulse_twin/";
             },},{id: "projects-ambulatory-arterial-stiffness-measurement",
           title: 'Ambulatory Arterial Stiffness Measurement',
           description: "On the go prototypes for daily stiffness tracking",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
+              window.location.href = "/projects/7_project_ambulatory_stiffness/";
             },},{id: "projects-automated-cover-slipper-for-tissue-slides",
           title: 'Automated Cover-slipper for Tissue Slides',
           description: "Instrumentation solutions for the Human Brain Initiative in India",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
+              window.location.href = "/projects/8_project_coverslipper/";
             },},{id: "projects-tele-operated-tractetory-tracking-robots",
           title: 'Tele-operated Tractetory Tracking Robots',
           description: "B. Tech Major Project - a Tele-operated control system of wheeled Mobile Robot, which tracks the path generated with the end effector of a 3DOF robot manipulator in real time.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/9_project_Btech_major_project/";
             },},{
         id: 'social-email',
         title: 'email',
