@@ -13,174 +13,347 @@ Biomedical Instrumentation · Pressure Sensing · Pneumatics · Hydraulics · Co
 
 ---
 
-## Background
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bed-Integrated Weight Monitoring System</title>
 
-This project began during my master’s studies at **IIT Madras**, where I worked as a **Research Intern at the Healthcare Technology Innovation Centre (HTIC)** in collaboration with **Stryker Global Technology Centre**.  
-The clinical problem was clear: **how can we monitor the weight and fluid balance of bedridden or critically ill patients continuously and safely, without lifting or moving them?**
+  <!-- MathJax for equations -->
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-In intensive care, subtle changes in patient weight (on the order of 1–2 kg) can reveal **fluid retention, dehydration, or renal complications** — key indicators of cardiac and kidney function. Traditional hospital systems rely on **load-cell–based bed scales**, which are accurate but mechanically complex, costly, and inconvenient for clinical workflow.
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.6;
+      margin: 40px;
+      color: #222;
+    }
+    h1, h2, h3 {
+      color: #003366;
+    }
+    hr {
+      margin: 30px 0;
+    }
+    .keywords {
+      font-style: italic;
+      color: #444;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 8px 10px;
+      text-align: left;
+    }
+    th {
+      background: #f2f2f2;
+    }
+    .figure {
+      text-align: center;
+      margin: 30px 0;
+    }
+    .figure img {
+      max-width: 100%;
+      border-radius: 6px;
+    }
+    .caption {
+      font-size: 0.9em;
+      color: #555;
+      margin-top: 8px;
+    }
+    blockquote {
+      background: #f8f9fa;
+      border-left: 4px solid #003366;
+      padding: 10px 15px;
+      margin: 20px 0;
+    }
+  </style>
+</head>
 
-Our goal was to engineer a **modular, low-cost, bed-integrated system** that could provide periodic or continuous weight estimation using compact sensing modules — a solution that could scale from ICUs to home-care environments.
+<body>
 
----
+<h2>Technical Keywords</h2>
+<p class="keywords">
+Biomedical Instrumentation · Pressure Sensing · Pneumatics · Hydraulics · Control Systems ·
+Data Acquisition · Patient Monitoring · ICU Devices · Translational Engineering
+</p>
 
-## Phase 1: Flexible Polymer Sensors — Early Prototypes (Stryker–HTIC Collaboration)
+<hr>
 
-The journey began with **flexible piezo-resistive and piezo-capacitive polymer materials**.  
-We experimented with **Velostat**, **Eeonyx conductive textiles**, and **CaplinQ films**, aiming to create a **conformable pressure mat** that could sense patient weight through surface resistance or capacitance changes.
+<h2>Background</h2>
+<p>
+This project began during my master’s studies at <strong>IIT Madras</strong>, where I worked as a
+<strong>Research Intern at the Healthcare Technology Innovation Centre (HTIC)</strong> in collaboration
+with <strong>Stryker Global Technology Centre</strong>.
+</p>
+<p>
+The clinical problem was clear: <strong>how can we monitor the weight and fluid balance of bedridden
+or critically ill patients continuously and safely, without lifting or moving them?</strong>
+</p>
+<p>
+In intensive care, subtle changes in patient weight (on the order of 1–2 kg) can reveal
+<strong>fluid retention, dehydration, or renal complications</strong>.
+Traditional systems rely on <strong>load-cell–based bed scales</strong>, which are accurate but
+mechanically complex and costly.
+</p>
+<p>
+Our goal was to engineer a <strong>modular, low-cost, bed-integrated system</strong> capable of periodic
+or continuous weight estimation using compact sensing modules.
+</p>
 
-**Working principle:**  
-When force was applied, the polymer’s microstructure compressed, reducing its electrical resistance according to a non-linear relationship:  
-\[
-R = R_0 (1 - kP)^n
-\]  
+<hr>
+
+<h2>Phase 1: Flexible Polymer Sensors — Early Prototypes</h2>
+<p>
+The journey began with <strong>flexible piezo-resistive and piezo-capacitive polymer materials</strong>.
+We experimented with <strong>Velostat</strong>, <strong>Eeonyx conductive textiles</strong>, and
+<strong>CaplinQ films</strong>, aiming to create a <strong>conformable pressure mat</strong>.
+</p>
+
+<h3>Working principle</h3>
+<p>
+When force was applied, the polymer’s microstructure compressed, reducing its electrical resistance:
+</p>
+
+<p style="text-align:center;">
+\( R = R_0 (1 - kP)^n \)
+</p>
+
+<p>
 where \(R_0\) is baseline resistance, \(P\) is applied pressure, and \(k, n\) are material constants.
+</p>
 
-**Electronics and DAQ:**  
-A Wheatstone bridge with a high-input-impedance instrumentation amplifier (INA122) captured voltage variations, which were digitized using an **NI USB-6002 DAQ (1 kS/s)**. The setup allowed for real-time monitoring and calibration.
+<h3>Electronics and DAQ</h3>
+<p>
+A Wheatstone bridge with an instrumentation amplifier (INA122) captured voltage variations, digitized
+using an <strong>NI USB-6002 DAQ (1 kS/s)</strong>.
+</p>
 
-**Challenges identified:**
-- **Hysteresis** and **drift** due to viscoelastic relaxation of the polymer.  
-- **Temperature sensitivity** and non-repeatability over multiple loading cycles.  
-- **Edge effects** under distributed loads, leading to signal non-uniformity.  
+<h3>Challenges identified</h3>
+<ul>
+  <li><strong>Hysteresis</strong> and <strong>drift</strong> due to viscoelastic relaxation.</li>
+  <li><strong>Temperature sensitivity</strong> and poor repeatability.</li>
+  <li><strong>Edge effects</strong> under distributed loads.</li>
+</ul>
 
-While these materials were attractive for low-cost prototyping, they lacked the **mechanical stability and repeatability** required for long-term ICU monitoring.
+<blockquote>
+<strong>Key insight:</strong> the sensing medium must remain stable under static or quasi-static loads.
+</blockquote>
 
-> **Key insight:** the sensing medium must remain stable under static or quasi-static loads — pushing us to explore pneumatic solutions.
+<hr>
 
----
+<h2>Phase 2: Air-Filled Mattress System — Proof of Concept</h2>
+<p>
+To overcome drift and non-linearity, we turned to <strong>air as the sensing medium</strong>.
+</p>
 
-## Phase 2: Air-Filled Mattress System — Proof of Concept (IEEE MeMeA 2019)
+<h3>Principle</h3>
+<p>
+At constant temperature, the relationship follows <strong>Boyle’s Law</strong>:
+</p>
 
-To overcome the drift and non-linearity of polymer sensors, we turned to **air as the sensing medium**.  
-The idea was simple: if a patient lies on a sealed air chamber, their body weight compresses the air, producing a measurable change in internal pressure.
+<p style="text-align:center;">
+\( P_0 V_0 = P_1 V_1 \)
+</p>
 
-**Principle:**  
-At constant temperature, the relationship between pressure and volume follows **Boyle’s Law**:
-\[
-P_0 V_0 = P_1 V_1
-\]  
-The applied weight causes a pressure increase \( \Delta P = P_1 - P_0 \), which correlates linearly with the patient’s weight within the system’s elastic range.
+<p>
+The applied weight causes a pressure increase \( \Delta P \) that correlates with patient weight.
+</p>
 
-**System design:**  
-- Air-filled pillow (27 × 37 × 10 cm) and full mattress (190 × 70 × 6 cm)  
-- Pressure transducer: **NXP MPXV5100DP**, differential type with built-in amplifier  
-- Acquisition: **NI USB-6002 DAQ**, LabVIEW interface at 1 kS/s  
-- Calibration: linear model \( \Delta P = aW + b \), where \(W\) = applied weight  
+<h3>System design</h3>
+<ul>
+  <li>Air-filled pillow and full mattress</li>
+  <li>Pressure transducer: <strong>NXP MPXV5100DP</strong></li>
+  <li>Acquisition: <strong>NI USB-6002 DAQ</strong>, LabVIEW at 1 kS/s</li>
+  <li>Calibration: \( \Delta P = aW + b \)</li>
+</ul>
 
-**Performance highlights:**
-- Linear fit with **R² = 0.98 (pillow)** and **R² = 0.99 (mattress)**  
-- Coefficient of variation (**CoV**) between **5–9 %** across load positions  
-- Sensitivity increased with lower initial inflation pressure  
+<h3>Performance highlights</h3>
+<ul>
+  <li>Linear fit: <strong>R² = 0.98</strong> (pillow), <strong>R² = 0.99</strong> (mattress)</li>
+  <li>Coefficient of variation: <strong>5–9%</strong></li>
+  <li>Sensitivity increased at lower inflation pressure</li>
+</ul>
 
-**Limitations:**
-- Air leakage and temperature dependence caused baseline drift  
-- Maintaining constant initial pressure proved challenging  
-- Large compliance led to slower transient response  
+<h3>Limitations</h3>
+<ul>
+  <li>Air leakage and temperature dependence</li>
+  <li>Baseline drift</li>
+  <li>Slower transient response</li>
+</ul>
 
-Nonetheless, this design demonstrated — for the first time — that **continuous and non-invasive weight monitoring was possible using purely pneumatic sensing**, integrated directly into standard hospital beds.
+<blockquote>
+Published as <em>“Continuous Weight Monitoring System for ICU Beds Using Air-Filled Mattresses/Pads:
+A Proof of Concept” (IEEE MeMeA 2019)</em>.
+</blockquote>
 
-> Published as *“Continuous Weight Monitoring System for ICU Beds Using Air-Filled Mattresses/Pads: A Proof of Concept” (IEEE MeMeA 2019).*
-
----
-
-### Figure Placeholder
-{% include figure.liquid path="assets/img/project_weighing_bed_air_schematic.jpg" title="Air-based weight sensing architecture showing air chamber, pressure transducer, amplifier, and DAQ interface" class="img-fluid rounded z-depth-1" %}
-*Figure 1: Pneumatic sensing setup used in the MeMeA 2019 proof-of-concept study.*
-
----
-
-## Phase 3: Liquid-Filled Active Feedback System — The Breakthrough (IEEE MeMeA 2024)
-
-The next generation addressed air’s key limitations by introducing **pressurized liquid-filled elastic channels**.  
-Liquids, being nearly incompressible, offered **high stability, negligible drift**, and **linear pressure–force characteristics**.
-
-**Architecture:**  
-A **hydraulic channel** was coupled to a **syringe-pump–based feedback mechanism**.  
-The system actively maintained constant internal pressure. When load (patient weight) increased, the piston displaced fluid to restore equilibrium. The displacement was measured via a **linear potentiometer**, allowing indirect estimation of applied weight.
-
-**Control design:**  
-- Closed-loop feedback using a **PID controller** implemented in LabVIEW  
-- Real-time control of syringe motor to maintain reference pressure  
-- Feedback stability tuned for < 200 ms transient recovery  
-
-**Calibration & results:**
-- Linear correlation between piston displacement and weight with **R² = 0.993**  
-- Operational range: 0–90 kg  
-- Mean measurement error < 3 % in bench and human subject testing  
-- Repeatability within ±1.5 % over 12 h continuous operation  
-
-The system effectively merged **mechanical sensing and electronic control**, creating a **self-correcting, drift-free instrument**.  
-It could detect subtle mechanical oscillations related to **cardiac and respiratory cycles**, opening the door to **balistocardiographic (BCG) monitoring** for cardiovascular assessment.
-
-> Published as *“Periodic Weight Measurement for Bedridden Patients Using a Pressurized Liquid-Filled Channel System Integrated with Hospital Beds” (IEEE MeMeA 2024).*
-
----
-
-### Figure Placeholder
-{% include figure.liquid path="assets/img/project_weighing_bed_liquid_feedback.jpg" title="Liquid-filled feedback system with syringe pump, pressure transducer, and closed-loop controller" class="img-fluid rounded z-depth-1" %}
-*Figure 2: Hydraulic active feedback prototype for continuous weight and vibration monitoring.*
-
----
-
-## Design Evolution and Insights
-
-This project evolved through **three sensing paradigms**, each revealing a unique engineering lesson:
-
-| Phase | Sensing Medium | Key Advantage | Limitation | Outcome |
-|-------|----------------|----------------|-------------|----------|
-| I | Piezo-polymer | Flexible, low-cost | Drift, poor repeatability | Proof-of-feasibility |
-| II | Air | Modular, non-invasive | Leakage, temperature dependence | Clinical proof-of-concept |
-| III | Liquid | Stable, self-correcting | Slightly higher complexity | Clinically robust prototype |
-
-Each iteration deepened the understanding of **how pressure, compliance, and control interact** in soft-sensing systems.  
-Moving from resistive materials to pneumatic and finally hydraulic architectures mirrored a shift from **passive to active sensing**, where the system no longer just measured — it regulated itself.
-
----
-
-## Translational Impact
-
-The final liquid-based system transforms the hospital bed into a **smart sensing platform** capable of:
-- **Continuous weight tracking** to monitor fluid balance and nutrition  
-- **Real-time cardiovascular vibration sensing (BCG)**  
-- **Potential integration with AI-based health analytics**
-
-The design is **scalable, modular, and low-cost**, allowing retrofit into existing beds without structural changes — ideal for resource-limited healthcare environments.
-
-This line of research represents a **fusion of instrumentation and clinical insight**, embodying the translational philosophy of HTIC: engineering solutions that directly address unmet clinical needs.
-
----
-
-## Collaboration
-
-This project was carried out at the **Healthcare Technology Innovation Centre (HTIC), IIT Madras**,  
-in collaboration with **Stryker Global Technology Centre**.
-
----
-
-## Related Publications
-
-- [**Periodic Weight Measurement for Bedridden Patients Using a Pressurized Liquid-Filled Channel System Integrated with Hospital Beds**](https://ieeexplore.ieee.org/document/10596806), *IEEE MeMeA 2024.*  
-- [**Continuous Weight Monitoring System for ICU Beds Using Air-Filled Mattresses/Pads: A Proof of Concept**](https://ieeexplore.ieee.org/document/8802148), *IEEE MeMeA 2019.*
-
----
-
-## Gallery
-
-<div class="row justify-content-sm-center">
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/project_weighing_bed_0.jpg" title="Flexible piezo-polymer prototypes (HTIC–Stryker phase)" class="img-fluid rounded z-depth-1" %}
+<div class="figure">
+  <!-- Replace src with your real image path -->
+  <img src="assets/img/project_weighing_bed_air_schematic.jpg"
+       alt="Air-based weight sensing architecture">
+  <div class="caption">
+    Figure 1: Pneumatic sensing setup used in the MeMeA 2019 proof-of-concept study.
   </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/project_weighing_bed_1.jpg" title="Air-based proof of concept (MeMeA 2019)" class="img-fluid rounded z-depth-1" %}
+</div>
+
+<hr>
+
+<h2>Phase 3: Liquid-Filled Active Feedback System — The Breakthrough</h2>
+<p>
+The next generation introduced <strong>pressurized liquid-filled elastic channels</strong>.
+Liquids offered <strong>high stability, negligible drift</strong>, and linear pressure–force behavior.
+</p>
+
+<h3>Architecture</h3>
+<p>
+A <strong>hydraulic channel</strong> was coupled to a <strong>syringe-pump–based feedback mechanism</strong>.
+Piston displacement was measured using a <strong>linear potentiometer</strong>.
+</p>
+
+<h3>Control design</h3>
+<ul>
+  <li>Closed-loop <strong>PID controller</strong> in LabVIEW</li>
+  <li>Real-time pressure regulation</li>
+  <li>Transient recovery &lt; 200 ms</li>
+</ul>
+
+<h3>Calibration & results</h3>
+<ul>
+  <li><strong>R² = 0.993</strong> between displacement and weight</li>
+  <li>Operational range: <strong>0–90 kg</strong></li>
+  <li>Mean error &lt; <strong>3%</strong></li>
+  <li>Repeatability within <strong>±1.5%</strong> over 12 h</li>
+</ul>
+
+<p>
+The system enabled detection of subtle vibrations related to
+<strong>cardiac and respiratory cycles</strong>, opening pathways to
+<strong>balistocardiographic (BCG) monitoring</strong>.
+</p>
+
+<blockquote>
+Published as <em>“Periodic Weight Measurement for Bedridden Patients Using a Pressurized Liquid-Filled
+Channel System Integrated with Hospital Beds” (IEEE MeMeA 2024)</em>.
+</blockquote>
+
+<div class="figure">
+  <img src="assets/img/project_weighing_bed_liquid_feedback.jpg"
+       alt="Liquid-filled feedback system">
+  <div class="caption">
+    Figure 2: Hydraulic active feedback prototype for continuous weight and vibration monitoring.
   </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/project_weighing_bed_2.jpg" title="Liquid-filled feedback prototype (MeMeA 2024)" class="img-fluid rounded z-depth-1" %}
+</div>
+
+<hr>
+
+<h2>Design Evolution and Insights</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Phase</th>
+      <th>Sensing Medium</th>
+      <th>Key Advantage</th>
+      <th>Limitation</th>
+      <th>Outcome</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>I</td>
+      <td>Piezo-polymer</td>
+      <td>Flexible, low-cost</td>
+      <td>Drift, poor repeatability</td>
+      <td>Proof-of-feasibility</td>
+    </tr>
+    <tr>
+      <td>II</td>
+      <td>Air</td>
+      <td>Modular, non-invasive</td>
+      <td>Leakage, temperature dependence</td>
+      <td>Clinical proof-of-concept</td>
+    </tr>
+    <tr>
+      <td>III</td>
+      <td>Liquid</td>
+      <td>Stable, self-correcting</td>
+      <td>Higher complexity</td>
+      <td>Clinically robust prototype</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr>
+
+<h2>Translational Impact</h2>
+<p>
+The final liquid-based system transforms the hospital bed into a
+<strong>smart sensing platform</strong> capable of:
+</p>
+<ul>
+  <li>Continuous weight tracking</li>
+  <li>Real-time cardiovascular vibration sensing (BCG)</li>
+  <li>Integration with AI-based health analytics</li>
+</ul>
+
+<p>
+The design is <strong>scalable, modular, and low-cost</strong>, enabling retrofit into existing beds.
+</p>
+
+<hr>
+
+<h2>Collaboration</h2>
+<p>
+This project was carried out at the <strong>Healthcare Technology Innovation Centre (HTIC), IIT Madras</strong>,
+in collaboration with <strong>Stryker Global Technology Centre</strong>.
+</p>
+
+<hr>
+
+<h2>Related Publications</h2>
+<ul>
+  <li>
+    <a href="https://ieeexplore.ieee.org/document/10596806" target="_blank">
+      Periodic Weight Measurement for Bedridden Patients Using a Pressurized Liquid-Filled Channel System
+      Integrated with Hospital Beds
+    </a>, <em>IEEE MeMeA 2024</em>.
+  </li>
+  <li>
+    <a href="https://ieeexplore.ieee.org/document/8802148" target="_blank">
+      Continuous Weight Monitoring System for ICU Beds Using Air-Filled Mattresses/Pads:
+      A Proof of Concept
+    </a>, <em>IEEE MeMeA 2019</em>.
+  </li>
+</ul>
+
+<hr>
+
+<h2>Gallery</h2>
+
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+  <div class="figure" style="flex:1;">
+    <img src="assets/img/project_weighing_bed_0.jpg"
+         alt="Flexible piezo-polymer prototypes">
+  </div>
+  <div class="figure" style="flex:1;">
+    <img src="assets/img/project_weighing_bed_1.jpg"
+         alt="Air-based proof of concept">
+  </div>
+  <div class="figure" style="flex:1;">
+    <img src="assets/img/project_weighing_bed_2.jpg"
+         alt="Liquid-filled feedback prototype">
   </div>
 </div>
 
 <div class="caption">
-Evolution of the smart bed-integrated weighing system — from early polymer-based pressure mats to pneumatic and finally hydraulic active-feedback prototypes, bridging low-cost sensing and clinical precision.
+Evolution of the smart bed-integrated weighing system — from early polymer-based pressure mats to
+pneumatic and finally hydraulic active-feedback prototypes.
 </div>
 
-{% endraw %}
+</body>
+</html>
+
