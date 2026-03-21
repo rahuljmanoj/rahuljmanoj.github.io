@@ -228,8 +228,8 @@ ninja.data = [{
           description: "IR - Photodiode based positional and velocity tracking encoders for wheels",
           section: "Projects",handler: () => {
               window.location.href = "/projects/19_project/";
-            },},{id: "projects-from-flexible-sensors-to-smart-beds-a-journey-in-patient-weight-monitoring",
-          title: 'From Flexible Sensors to Smart Beds — A Journey in Patient Weight Monitoring...',
+            },},{id: "projects-bed-integrated-weight-measurement-system",
+          title: 'Bed-Integrated Weight Measurement System',
           description: "How to measure the weight of a bed-ridden patient?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project_weighing_bed_scales/";
