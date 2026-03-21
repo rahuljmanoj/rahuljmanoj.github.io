@@ -1,10 +1,10 @@
 ---
 layout: page
-title: From Flexible Sensors to Smart Beds — A Journey in Patient Weight Monitoring
+title: Bed-Integrated Weight Measurement System
 description: How to measure the weight of a bed-ridden patient?
 img: assets/img/project_1.PNG
 importance: 6
-category: work
+category: Mechatronic/Robotic Systems & Control
 related_publications: true
 ---
 

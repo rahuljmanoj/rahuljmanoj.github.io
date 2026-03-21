@@ -4,7 +4,7 @@ title: Pulse Wave Separation
 description: Flow-independent algorithms for arterial pulse wave separation analysis
 img: assets/img/project_2.PNG
 importance: 2
-category: work
+category: Algorithm Devlopment & Modelling
 giscus_comments: true
 ---
 

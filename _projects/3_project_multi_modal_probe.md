@@ -4,7 +4,7 @@ title: Multi-Modal Arterial Probe
 description: Dual-element ultrasound trasducer probes with an integrated pressure sensor
 img: assets/img/project_3.PNG
 importance: 3
-category: work
+category: Electronic Systems & Instrumentation
 ---
 
 Every project has a beautiful feature showcase page.
