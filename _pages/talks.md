@@ -13,8 +13,22 @@ ol li {
 </style>
 <hr>
 
+<h2>2026</h2>
+<ol>
+<li>Nano Mechanics - Bio Mechanics Group Seminar Series Spring 2026, NTNU, Norway – <strong>Blood Pressure Measurement - Past, Present & Future </strong>, 26th February 2026</li>
+</ol>
+
+<hr>
+
+
 <h2>2025</h2>
 <ol>
+<li>Nano Mechanics - Bio Mechanics Group Seminar Series Fall 2025, NTNU, Norway – <strong>How to build a model that we can trust? </strong>, 27th November 2025</li>
+<li>Dept. of Mathematics, University of Trento, Italy (Online) – <strong>Advancing Heart Failure Diagnosis using Physics-based Modelling & Digital Twins </strong>, 31st October 2025</li>
+<li>Dept. of Circulation & Imaging (ISB), St. Olavs Hosptial, Trondheim, Norway – <strong>Advancing Heart Failure Diagnosis using Physics-based Modelling & Digital Twins </strong>, 10th October 2025</li>
+<li>Nano Mechanics - Bio Mechanics Group Seminar Series Fall 2025, NTNU, Norway – <strong>Advancing Heart Failure Diagnosis using Physics-based Modelling & Digital Twins </strong>, 18th September 2025</li>
+<li>Digital Life Norway Conference, Stavanger, Norway – Poster Presentation on <strong>Enhancing Cardiovascular Clinical Care Through Bio-Physics & Data-Driven Modelling</strong>, 5th September 2025</li>
+<li>iSi Health Symposiym of in-silico modelling, KU Leuven, Netherlands – Poster Presentation on <strong>Enhancing Cardiovascular Clinical Care Through Bio-Physics & Data-Driven Modelling</strong>, 10th September 2025</li>
 <li>iSi Health Modeling Challenge: Digital Twin Builder for Health Incubator, KU Leuven, Belgium (Online) – Pitch Deck on <strong>ECHO-PULSE-TWIN. What if we could stop heart failure before it starts?</strong>, 24th June 2025</li>
 <li>Nano Mechanics - Bio Mechanics Group Seminar Series Spring 2025, NTNU, Norway – <strong>A humble introduction to cepstrum and its application to arterial biomechanics</strong>, 8th May 2025</li>
 <li>Precision Medicine for Sustainable Health Care Workshop, NTNU Health, Norway – <strong>Enhancing Cardiovascular Clinical Care using Bio-Physics & Data Driven Modelling - Healthy Ageing & Healthier Lifespans</strong>, 26th April 2025</li>
@@ -26,7 +40,7 @@ ol li {
 
 <h2>2024</h2>
 <ol>
-<li>Nano Mechanics - Bio Mechanics Group Seminar Series Autumn 2024, NTNU, Norway – <strong>How not to die young? Lessons from Cardiovascular Engineering (Long Version)</strong>, 17th December 2024</li>
+<li>Nano Mechanics - Bio Mechanics Group Seminar Series Fall 2024, NTNU, Norway – <strong>How not to die young? Lessons from Cardiovascular Engineering (Long Version)</strong>, 17th December 2024</li>
 <li>PhD Defence/Viva Voce<, IIT Madras, Chennai, India (Online) – <strong>Demystifying the Arterial Pulse – a System & Method to Quantify Pulse Wave Reflection and its Novel Applications</strong>, 28th June 2024</li>
 <li>IEEE MeMeA 2024 Special Session, Eindhoven, Netherlands – <strong>Measurement of Inter and Intra-cycle Variations in Local Pulse Wave Velocity from Forward Travelling Pulse Waves</strong>, 27th June 2024</li>
 <li>IEEE MeMeA 2024 Poster Presentation, Eindhoven, Netherlands – <strong>Periodic Weight Measurement for Bedridden Patients Using a Pressurized Liquid-Filled Channel System Integrated with Hospital Beds</strong>, 26th June 2024</li>

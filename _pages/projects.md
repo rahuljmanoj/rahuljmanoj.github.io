@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Here you will find information regarding all my projects.
+description: My works span algorithm development from physiological signals, physics/data-driven physiology modelling, electrnoic system design, instrumentation, building electro-mechanical systems, and cybernetics/control systems. I am an electronics hobbyist with projects in PCB designing, IoT, Robotics, Embedded Systems, Analog Electronics and have a special interest in Personal Finance Management.  (The detailed project pages are still under development!)
 nav: true
 nav_order: 4
 display_categories: [Algorithm Devlopment & Modelling, Electronic Systems & Instrumentation, Electro-Mechanical Systems & Control, Hobby Projects]

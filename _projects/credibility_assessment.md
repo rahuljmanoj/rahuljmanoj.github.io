@@ -2,7 +2,7 @@
 layout: page
 title: Credibility Assessment of Models
 description: How to build a model we can trust? Established regulatory-aligned verification and validation (V&V) frameworks (as per ASME V&V 40) with a focus on Identifiability, Uncertainity Quanification and Sensitivity Analysis. 
-img: assets/img/project_6.PNG
+img: assets/img/projects/credibility_assessment/cover_1.jpg
 importance: 2
 category: Algorithm Devlopment & Modelling
 ---
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/project_6.PNG
+    img: /assets/img/projects/credibility_assessment/cover_1.jpg
     ---
 
 <div class="row">
