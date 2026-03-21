@@ -273,8 +273,8 @@ ninja.data = [{
           description: "A device for real-time hydrostatic pressure compensation that enables heart-level referenced blood pressure measurements across different anatomical sites.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/height_correction_unit/";
-            },},{id: "projects-home-automation-using-tv-remote",
-          title: 'Home Automation using TV Remote',
+            },},{id: "projects-home-automation-via-tv-remote",
+          title: 'Home Automation via TV Remote',
           description: "Automate Home using TV Remote",
           section: "Projects",handler: () => {
               window.location.href = "/projects/home_automation_tv_remote/";
