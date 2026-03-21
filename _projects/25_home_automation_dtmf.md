@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Tele-operated Tractetory Tracking Robots
-description: B. Tech Major Project - a Tele-operated control system of wheeled Mobile Robot, which tracks the path generated with the end effector of a 3DOF robot manipulator in real time.
-img: assets/img/project_9.png
-importance: 11
-category: work
+title: Home Automation using a Mobile Phone (DTMF Technology)
+description: Home Automation System based on IR Remotes and DTMF Technology
+img: assets/img/project_16.png
+importance: 16
+category: Hobby Projects
 ---
 
 Every project has a beautiful feature showcase page.
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/project_9.png
+    img: /assets/img/project_16.png
     ---
 
 <div class="row">

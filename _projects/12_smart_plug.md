@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Personal Finance 101
-description: My learnings related to personal finance management - from insurnace, stock market, mutual funds
-img: assets/img/project_24.jpg
-importance: 24
-category: hobby
+title: IoT Smart Plug for Home Automation
+description: A device for Power Monitoring and Control of any electrical appliance, Wi-Fi and Internet Enabled with user friendly Web Server for GUI
+img: assets/img/project_12.jpg
+importance: 12
+category: Electronic Systems & Instrumentation
 ---
 
 Every project has a beautiful feature showcase page.
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/project_16.png
+    img: /assets/img/project_12.jpg
     ---
 
 <div class="row">

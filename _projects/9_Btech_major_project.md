@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Reflection-Free PWV
-description: How to improve the accuracy & precision in measuring pulse wave velocity?
-img: assets/img/project_4.PNG
-importance: 4
-category: work
+title: Tele-operated Path Tracking Robots
+description: Tele-operated control system of wheeled Mobile Robot, which tracks the path generated with the end effector of a 3DOF robot manipulator in real time uisng PID controls
+img: assets/img/project_9.png
+importance: 11
+category: Electro-Mechanical Systems & Control
 ---
 
 Every project has a beautiful feature showcase page.
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/project_4.PNG
+    img: /assets/img/project_9.png
     ---
 
 <div class="row">

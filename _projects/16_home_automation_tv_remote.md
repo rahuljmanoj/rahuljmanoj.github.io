@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Wireless Water Level Indicator
-description: Automated and wireless solution for overhead water tanks based on RF sensors
-img: assets/img/project_10.jpg
-importance: 15
-category: hobby
+title: Home Automation using TV Remote
+description: Home Automation System based on IR Remotes and DTMF Technology
+img: assets/img/project_16.png
+importance: 16
+category: Hobby Projects
 ---
 
 Every project has a beautiful feature showcase page.
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/project_10.jpg
+    img: /assets/img/project_16.png
     ---
 
 <div class="row">

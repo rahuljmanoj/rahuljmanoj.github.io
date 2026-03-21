@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Heart Faliure Diagnosis
-description: ECHO-PULSE-TWIN a digital twin solutions for estimating left ventricular filling pressures
-img: assets/img/project_6.PNG
-importance: 1
-category: work
+title: Excised Artery Mock Blood Circulation Rigs
+description: Ex-vivo laboratory test rig platform using excised animal arteries for mock circulation loop of heart and systemic arteries 
+img: assets/img/project_11.jpg
+importance: 8
+category: Electro-Mechanical Systems & Control
 ---
 
 Every project has a beautiful feature showcase page.
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/project_6.PNG
+    img: /assets/img/project_11.jpg
     ---
 
 <div class="row">

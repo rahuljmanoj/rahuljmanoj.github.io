@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Calibartion-Free Blood Pressure
-description: a novel non-invasive, calibration free models to measure BP and arterial stiffness
+title: Calibartion-Free Blood Pressure Measurement
+description: A calibration‑free, non‑invasive blood pressure (BP) estimation methods for large blood vessels by combining high frame rate ultrasound imaging (B-mode & A-mode) with Doppler flow velocity measurements and arterial tonometry. 
 img: assets/img/project_5.PNG
 importance: 5
-category: work
+category: Algorithm Devlopment & Modelling
 ---
 
 Every project has a beautiful feature showcase page.

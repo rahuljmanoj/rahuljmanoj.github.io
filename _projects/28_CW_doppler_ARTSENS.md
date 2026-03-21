@@ -1,10 +1,10 @@
 ---
 layout: page
-title: IR Remote Controlled Object Avoidance Robot
-description: IR TV Remotes are hacked to use as a joystick for robot control and ultrasound trasducers are employed for object detection and avoidance.
-img: assets/img/project_18.JPG
-importance: 18
-category: hobby
+title: CW Doppler Flow Integration with ARTSENS
+description: Integrated a continuous wave Doppler flow velocity measurement with the in-house developed ultrasound-based image-free cardiovascular screening tool (ARTSENS).  
+img: assets/img/project_3.PNG
+importance: 3
+category: Electronic Systems & Instrumentation
 ---
 
 Every project has a beautiful feature showcase page.
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/project_16.png
+    img: assets/img/project_3.PNG
     ---
 
 <div class="row">

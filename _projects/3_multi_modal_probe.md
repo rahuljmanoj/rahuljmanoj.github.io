@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Hand Gesture Controlled Robot 
-description: Based on Inertial Measurement Unit and Arduino
-img: assets/img/project_15.jpg
-importance: 17
-category: hobby
+title: Multi-Modalily Vascular Health Probes
+description: Designed and validated multi-modal vascular probes & instrumentation combining custom-made single-element ultrasound transducers with strain-gauge sensors for measuring material properties of blood vessels. 
+img: assets/img/project_3.PNG
+importance: 3
+category: Electronic Systems & Instrumentation
 ---
 
 Every project has a beautiful feature showcase page.
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/project_15.jpg
+    img: assets/img/project_3.PNG
     ---
 
 <div class="row">

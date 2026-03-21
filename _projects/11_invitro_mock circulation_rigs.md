@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Omni-Wheels 3-wheeled Drive System
-description: A robot 3-wheel drive system built using Omni Wheels 
-img: assets/img/project_17.png
-importance: 17
-category: hobby
+title: Silicone Tubings Mock Blood Circulation Rigs
+description: In-vitro Laboratory test rig platform using Silicone tubes for mock circulation loop of heart and systemic arteries 
+img: assets/img/project_11.jpg
+importance: 8
+category: Electro-Mechanical Systems & Control
 ---
 
 Every project has a beautiful feature showcase page.
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/project_16.png
+    img: /assets/img/project_11.jpg
     ---
 
 <div class="row">

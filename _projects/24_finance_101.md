@@ -1,10 +1,10 @@
 ---
 layout: page
-title: MOSFET H-Bridge Motor Driver
-description: Design and Testing of a MOSFET based H-bridge motor driver from scratch
-img: assets/img/project_22.jpg
-importance: 22
-category: hobby
+title: Personal Finance 101
+description: My learnings related to personal finance management - from insurnace, stock market, mutual funds
+img: assets/img/project_24.jpg
+importance: 24
+category: Hobby Projects
 ---
 
 Every project has a beautiful feature showcase page.

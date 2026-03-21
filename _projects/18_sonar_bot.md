@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ABU RoboCON Robots
-description: Design, Fabrication and Control of ABU ROBOCON India (National Level) Manual and Autonomous Robots for the year 2013, 2014 and 2015, as per the problem statement of the contest for each year.
-img: assets/img/project_14.jpg
-importance: 14
-category: hobby
+title: Sonar-based Object Avoidance Bot
+description: IR TV Remotes are hacked to use as a joystick for robot control and ultrasound trasducers are employed for object detection and avoidance.
+img: assets/img/project_18.JPG
+importance: 18
+category: Hobby Projects
 ---
 
 Every project has a beautiful feature showcase page.
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/project_14.jpg
+    img: /assets/img/project_16.png
     ---
 
 <div class="row">

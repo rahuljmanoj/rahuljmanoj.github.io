@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Quadrature Wheel Encoders
-description: IR - Photodiode based positional and velocity tracking encoders for wheels
-img: assets/img/project_19.gif
-importance: 19
-category: hobby
+title: Reflection-free Pulse Wave Velocity (PWV) 
+description: Improved measurement accuracy and precision of the pulse wave velocity (PWV) and its incremental variations within a cardiac cycle. Implimented wave reflections-compensated Pulse Trasit Time (PTT) for PWV computation. 
+img: assets/img/project_4.PNG
+importance: 4
+category: Algorithm Devlopment & Modelling
 ---
 
 Every project has a beautiful feature showcase page.
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/project_16.png
+    img: /assets/img/project_4.PNG
     ---
 
 <div class="row">

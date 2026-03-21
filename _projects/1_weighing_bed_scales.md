@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Bed-Integrated Weight Measurement System
-description: How to measure the weight of a bed-ridden patient?
+title: Bed-Integrated Body Weight Measurement
+description: How to measure the weight of a bed-ridden patient? Designed and built a functional prototype of a modular and automatic time scheduled body weight measurement system for bedridden patients.
 img: assets/img/project_1.PNG
 importance: 6
-category: Mechatronic/Robotic Systems & Control
+category: Electro-Mechanical Systems & Control
 related_publications: true
 ---
 

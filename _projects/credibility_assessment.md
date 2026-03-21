@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Speed Control Drive
-description: B. Tech Major Project -a Speed Control Drive System for AC motorized load, operates either in Temperature Feedback based Controller or Pre-Set Timer with User Interface
-img: assets/img/project_13.jpg
-importance: 13
-category: work
+title: Credibility Assessment of Models
+description: How to build a model we can trust? Established regulatory-aligned verification and validation (V&V) frameworks (as per ASME V&V 40) with a focus on Identifiability, Uncertainity Quanification and Sensitivity Analysis. 
+img: assets/img/project_6.PNG
+importance: 2
+category: Algorithm Devlopment & Modelling
 ---
 
 Every project has a beautiful feature showcase page.
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/project_13.jpg
+    img: /assets/img/project_6.PNG
     ---
 
 <div class="row">

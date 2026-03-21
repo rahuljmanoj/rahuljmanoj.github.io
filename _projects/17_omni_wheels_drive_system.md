@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Multi-Modal Arterial Probe 
-description: Dual-element ultrasound trasducer probes with an integrated pressure sensor
-img: assets/img/project_3.PNG
-importance: 3
-category: Electronic Systems & Instrumentation
+title: Omni-Wheels 3-wheeled Drive System
+description: A robot 3-wheel drive system built using Omni Wheels 
+img: assets/img/project_17.png
+importance: 17
+category: Mechatronic/Robotic Systems & Control
 ---
 
 Every project has a beautiful feature showcase page.
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: assets/img/project_3.PNG
+    img: /assets/img/project_16.png
     ---
 
 <div class="row">

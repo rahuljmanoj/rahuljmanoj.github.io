@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Automated Cover-slipper for Tissue Slides
-description: Instrumentation solutions for the Human Brain Initiative in India
-img: assets/img/project_8.PNG
-importance: 9
-category: work
-giscus_comments: true
+title: PID controlled Line Following Robot
+description: A Line following robot is integrated with PID control for smooth navigation
+img: assets/img/project_21.JPG
+importance: 21
+category: Hobby Projects
 ---
 
 Every project has a beautiful feature showcase page.
@@ -18,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/project_8.PNG
+    img: /assets/img/project_16.png
     ---
 
 <div class="row">

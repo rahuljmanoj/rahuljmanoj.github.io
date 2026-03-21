@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Home Automation 
-description: Home Automation System based on IR Remotes and DTMF Technology
-img: assets/img/project_16.png
-importance: 16
-category: hobby
+title: LCD Integration with AVR MCUs
+description: An LCD is integrated for display using Embedded C & AVR MUCs
+img: assets/img/project_20.JPG
+importance: 20
+category: Hobby Projects
 ---
 
 Every project has a beautiful feature showcase page.

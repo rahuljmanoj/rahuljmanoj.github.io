@@ -4,8 +4,8 @@ title: projects
 permalink: /projects/
 description: Here you will find information regarding all my projects.
 nav: true
-nav_order: 3
-display_categories: [Algorithm Devlopment & Modelling, Electronic Systems & Instrumentation, Mechatronic/Robotic Systems & Control]
+nav_order: 4
+display_categories: [Algorithm Devlopment & Modelling, Electronic Systems & Instrumentation, Electro-Mechanical Systems & Control, Hobby Projects]
 horizontal: false
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: USBasp for Flashing MCU
-description: Builing a USBasp from scratch - from PCB design to Fabrication to Flashing an MCU
-img: assets/img/project_23.jpg
-importance: 23
-category: hobby
+title: Cepstral Analysis for Non-linear WSA
+description: A novel Non-linear Pulse Wave Spearation Analysis (WSA) based on signal processing (homomorphic deconvolution) for quantifying the arterial pulse wave reflections from any measured pulse waveform, an alternative proposal to linear WSA. 
+img: assets/img/project_5.PNG
+importance: 6
+category: Algorithm Devlopment & Modelling
 ---
 
 Every project has a beautiful feature showcase page.
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/project_16.png
+    img: /assets/img/project_4.PNG
     ---
 
 <div class="row">

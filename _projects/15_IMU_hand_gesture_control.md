@@ -1,10 +1,10 @@
 ---
 layout: page
-title: IoT Power Adaptor
-description: A device for Power Monitoring and Control of any electrical appliance, Wi-Fi and Internet Enabled with user friendly Web Server for GUI
-img: assets/img/project_12.jpg
-importance: 12
-category: work
+title: IMU-Powered Hand Gesture Control 
+description: Based on Inertial Measurement Unit and Arduino
+img: assets/img/project_15.jpg
+importance: 17
+category: Hobby Projects
 ---
 
 Every project has a beautiful feature showcase page.
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/project_12.jpg
+    img: /assets/img/project_15.jpg
     ---
 
 <div class="row">

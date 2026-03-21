@@ -1,10 +1,10 @@
 ---
 layout: page
-title: LCD Integration with AVR MCUs
-description: An LCD is integrated for display using Embedded C & AVR MUCs
-img: assets/img/project_20.JPG
-importance: 20
-category: hobby
+title: MOSFET H-Bridge Motor Driver
+description: Design and Testing of a MOSFET based H-bridge motor driver from scratch
+img: assets/img/project_22.jpg
+importance: 22
+category: Hobby Projects
 ---
 
 Every project has a beautiful feature showcase page.

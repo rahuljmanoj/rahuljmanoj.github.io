@@ -1,10 +1,11 @@
 ---
 layout: page
-title: PID controlled Line Following Robot
-description: A Line following robot is integrated with PID control for smooth navigation
-img: assets/img/project_21.JPG
-importance: 21
-category: hobby
+title: Automated Cover-slipper for Tissue Slides
+description: Developed software and integrated electronics, sensors and actuators for an in-house designed automated cover slipper for large-format (6'' X 8'') histopathology human brain section slides.
+img: assets/img/project_8.PNG
+importance: 9
+category: Electro-Mechanical Systems & Control
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
@@ -17,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/project_16.png
+    img: /assets/img/project_8.PNG
     ---
 
 <div class="row">

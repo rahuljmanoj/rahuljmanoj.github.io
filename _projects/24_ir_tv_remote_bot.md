@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Pulse Wave Separation
-description: Flow-independent algorithms for arterial pulse wave separation analysis
-img: assets/img/project_2.PNG
-importance: 2
-category: Algorithm Devlopment & Modelling
-giscus_comments: true
+title: Control your bot using a TV Remote
+description: IR TV Remotes are hacked to use as a joystick for robot control and ultrasound trasducers are employed for object detection and avoidance.
+img: assets/img/project_18.JPG
+importance: 18
+category: Hobby Projects
 ---
 
 Every project has a beautiful feature showcase page.
@@ -18,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/project_2.PNG
+    img: /assets/img/project_16.png
     ---
 
 <div class="row">
