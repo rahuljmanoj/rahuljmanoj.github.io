@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home Automation using TV Remote
+title: Home Automation via TV Remote
 description: Automate Home using TV Remote
 img: assets/img/projects/home_automation_tv_remote/cover_1.png
 importance: 16
