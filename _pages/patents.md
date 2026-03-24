@@ -9,7 +9,7 @@ nav_order: 6
 
 <strong>A SYSTEM AND METHOD FOR NON-INVASIVE CALIBRATION-FREE BLOOD PRESSURE (BP) MEASUREMENT</strong>
 
-- Indian Patent No. [544544](www.rahuljmanoj.github.io\assets\pdf\Patent_BP_Ind_2024.pdf) – Filed on 05/08/2020 | Granted on 12/06/2024
+- Indian Patent No. [544544](www.rahulmanoj.com\assets\pdf\Patent_BP_Ind_2024.pdf) – Filed on 05/08/2020 | Granted on 12/06/2024
 - EU Patent Application No. 21851949.4 – Filed on 02/02/2023
 - US Patent Application No. 18/015,198 – Filed on 02/01/2023
 
