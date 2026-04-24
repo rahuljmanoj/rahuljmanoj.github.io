@@ -6,75 +6,147 @@ img: assets/img/projects/credibility_assessment/cover_1.jpg
 importance: 2
 category: Algorithm Devlopment & Modelling
 ---
+This project is part of my post-doctoral research activities with the [Division of Biomechanics](https://www.ntnu.edu/biomechanics) at [Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/), Trondheim, Norway. I am planning to write long format essay or white paper on "How to build models that we can trust?" 
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The following is the summary for a quick reference. I am also drafting a manuscript, whcih will as act as guideline and an example on how to use the [ASME V&V 40-2018](https://www.asme.org/codes-standards/find-codes-standards/assessing-credibility-of-computational-modeling-through-verification-and-validation-application-to-medical-devices - Assessing Credibility of Computational Modeling through Verification and Validation: Application to Medical Devices for the compuational model that you are developing. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+More details to be updated soon. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/projects/credibility_assessment/cover_1.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## **Introduction**
+This page documents a complete guide on **how to build a computational model we can trust**, using an evidence-based, regulatory-aligned approach grounded in **ASME V&V 40 guidelines**. The goal is to establish a structured 18-step workflow that ensures credibility across the model lifecycle, from initial context definition to final verification and validation.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/credibility_assessment/cover_1.jpg" title="Overview" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+How to build a model that we can trust?
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+---
 
-{% raw %}
+## **Workflow Overview**
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+### **Step 1: Question of Interest (QoI)**
+*What do we want to know?*
+- Define the primary scientific or clinical question.
+- Ensure clarity in the scope and measurable objectives.
 
-{% endraw %}
+---
+
+### **Step 2: Model Definition**
+- Mathematical formulation:
+    - Equations
+    - States
+    - Parameters
+- Explicitly state assumptions supporting model structure.
+
+---
+
+### **Step 3: Structural Identifiability**
+- Can model parameters be uniquely estimated assuming **ideal, noise-free data**?
+
+---
+
+### **Step 4: Observability**
+- Are model outputs inferable from measurable signals/outputs?
+
+---
+
+### **Step 5: Controllability**
+- Can system outputs be influenced by altering inputs (e.g., preload, afterload)?
+- Critical for **drug/therapy response simulation** and **feedback control models**.
+
+---
+
+### **Step 6: Screening Sensitivity Analysis**
+- Initial sensitivity check to identify **which parameters matter**.
+
+---
+
+### **Step 7: Practical Identifiability**
+- Perform **profile likelihood analysis** incorporating real experimental/clinical data and noise constraints.
+
+---
+
+### **Step 8: Context of Use (CoU)**
+- Define intended application and decision supported by the model.
+
+---
+
+### **Step 9: Risk Analysis**
+- Risk = **model influence × consequence of wrong decision**
+- Apply ASME V&V 40 risk-based rigor for downstream steps.
+
+---
+
+### **Step 10: Parameter Estimation**
+- Employ robust estimation techniques validated for the given data and noise level.
+
+---
+
+### **Step 11: Hyperparameter Tuning**
+- Optimize tuning parameters for model selection or machine learning-based sub-models.
+
+---
+
+### **Step 12: Uncertainty Quantification (UQ)**
+- Quantify aleatory & epistemic uncertainties:
+    - Monte Carlo
+    - Polynomial Chaos
+    - Bayesian Inference
+
+---
+
+### **Step 13: Global Sensitivity Analysis**
+- Identify global influencers using:
+    - Sobol indices
+    - Morris method
+    - Variance decomposition
+
+---
+
+### **Step 14: Verification**
+- Ensure:
+    - Correctness of code
+    - Numerical accuracy
+    - Unit & integration tests
+
+---
+
+### **Step 15: Validation**
+- Compare model predictions to **independent validation data**:
+    - Use quantitative metrics & visual analysis
+    - Assess prediction intervals
+
+---
+
+### **Step 16: Applicability**
+- Check:
+    - Validation-Context overlap
+    - Relevance of predictions to original QoI
+
+---
+
+### **Step 17: Explainability**
+- Ensure transparency of:
+    - Parameter influence
+    - Model decision pathways
+- Use interpretable representations for regulatory and scientific acceptance.
+
+---
+
+### **Step 18: Reporting**
+- Provide:
+    - Complete traceability of assumptions
+    - Verification, Validation, UQ, SA evidence
+    - A *Credibility Matrix* summarizing strength-of-evidence vs risk
+
+---
+
+## **Best Practices**
+- Validate QoI alignment before investing in complexity.
+- Use **identifiability checks before parameter estimation**.
+- Always report **Credibility Matrix** with context-specific rigor.
+- Align every step with **regulatory science recommendations**.

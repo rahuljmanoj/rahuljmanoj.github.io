@@ -6,75 +6,25 @@ img: assets/img/projects/LPM_Digital_Twins_HFpEF/cover_2.JPG
 importance: 1
 category: Algorithm Devlopment & Modelling
 ---
+This project is part of my post-doctoral research activities with the [Division of Biomechanics](https://www.ntnu.edu/biomechanics) at [Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/), Trondheim, Norway. 
+The project is in collaboration with the [Department of Cardiovascular Scienecs](https://gbiomed.kuleuven.be/english/research/50000635) at KU Leuven, Belgium. 
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+As the manuscript is under review, I will not be able to disclose the details of the project in public domain at the moment. The details will be updated as soon as the manuscript is accepted for publication.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+What I am trying to build though this project to to answer the following question: **How to build measurement-supported model predictive controls to intervene patient outcome?**
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/projects/LPM_Digital_Twins_HFpEF/cover_2.JPG
-    ---
+A potential digital twin framework that utilises structral information (echocardiography), material information (shear wave elastography) to estimate functional information of the Left Ventricle. An explanable and clinicaly interpretable model to reconstrcut LV PV loop and estimate LV filling pressure for diastiloc dysfunction diagnosis. 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+I will be presenting some of the results in the upcoming [17th World Congress on Compuational Mechanics Conference](https://wccm-eccomas2026.org/), to be held in July 2026, Munich.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+More details to be updated soon. 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/LPM_Digital_Twins_HFpEF/cover_1.JPG" title="Overview" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+Overview of a complete heart profile diagnosis framework
 </div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+---
