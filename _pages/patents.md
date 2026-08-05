@@ -11,9 +11,9 @@ nav_order: 6
 
 - PCT Application Filed on 26/07/2021
 
-- Indian Patent No. [544544](www.rahulmanoj.com\assets\pdf\IN_541544_merged.pdf) – Filed on 05/08/2020 | Status: Granted on 12/06/2024
+- Indian Patent No. [544544](/assets/pdf/IN_541544_merged.pdf) – Filed on 05/08/2020 | Status: Granted on 12/06/2024
 
-- US Patent No. [US 12,635,970 B2](www.rahulmanoj.com\assets\pdf\US_12635970.pdf)  – Filed on 02/02/2023 | Status: Granted on 26/05/2026
+- US Patent No. [US 12,635,970 B2](/assets/pdf/US_12635970.pdf)  – Filed on 02/02/2023 | Status: Granted on 26/05/2026
 
 - EU Patent Application No. 21851949.4 – Filed on 02/02/2023 | Status: Pending (Published)
 
@@ -27,10 +27,13 @@ Related Patent Publication Documents:
 
 - PCT Application (PCT/IN2022/050598) Filed on 30/06/2022
 
-- Indian Patent No. [543694](www.rahulmanoj.com\assets\pdf\IN_543694_merged.pdf) – Filed on 05/08/2020 | Status: Granted on 30/07/2024
+- Indian Patent No. [543694](/assets/pdf/IN_543694_merged.pdf) – Filed on 05/08/2020 | Status: Granted on 30/07/2024
 
 - US Patent Application No. 18/575,482 – Filed on 23/12/2023 | Status: Pending (Published)
 
 Publication Documents:
 - [WO2023275894A1](https://patents.google.com/patent/WO2023275894A1/en)  – 05/01/2023
 - [US20240329066A1](https://patents.google.com/patent/US20240329066A1/en) - 03/10/2024
+
+
+https://www.rahulmanoj.com/patents/www.rahulmanoj.com/assets/pdf/Patent_BP_Ind_2024.pdf
