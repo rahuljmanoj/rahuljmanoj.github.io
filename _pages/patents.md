@@ -11,7 +11,7 @@ nav_order: 6
 
 - PCT Application Filed on 26/07/2021
 
-- Indian Patent No. [544544](/assets/pdf/IN_541544_merged.pdf) – Filed on 05/08/2020 | Status: Granted on 12/06/2024
+- Indian Patent No. [541554](/assets/pdf/IN_541554_merged.pdf) – Filed on 05/08/2020 | Status: Granted on 12/06/2024
 
 - US Patent No. [US 12,635,970 B2](/assets/pdf/US_12635970.pdf)  – Filed on 02/02/2023 | Status: Granted on 26/05/2026
 
@@ -27,7 +27,7 @@ Related Patent Publication Documents:
 
 - PCT Application (PCT/IN2022/050598) Filed on 30/06/2022
 
-- Indian Patent No. [543694](/assets/pdf/IN_543694_merged.pdf) – Filed on 05/08/2020 | Status: Granted on 30/07/2024
+- Indian Patent No. [546396](/assets/pdf/IN_546396_merged.pdf) – Filed on 05/08/2020 | Status: Granted on 30/07/2024
 
 - US Patent Application No. 18/575,482 – Filed on 23/12/2023 | Status: Pending (Published)
 
